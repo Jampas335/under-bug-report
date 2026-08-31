@@ -5,7 +5,14 @@
     "description": "a Hud da fazenda está muito pequena, aqui na loja do walter biggs, nao sei o que estou a comprar",
     "status": "open",
     "createdAt": "2026-08-31T20:46:59.706Z",
-    "attachments": []
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/b2c4d97c-4351-4749-b449-4ad89374e616/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/b2c4d97c-4351-4749-b449-4ad89374e616/image.png",
+        "sha": "4cf1f155a6a250b67ed6d04895e83c8e747d9162"
+      }
+    ]
   },
   {
     "id": "fc79bba3-33bc-4770-a203-9005388c4f1e",
