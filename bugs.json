@@ -1,5 +1,14 @@
 [
   {
+    "id": "02330d8a-ff53-47df-bd11-f8231b9d4ccd",
+    "place": "O som de toque do telefone nas definições",
+    "description": "O som de toque do telefone nas definições nao para de tocar caso você saia das definições",
+    "status": "open",
+    "createdAt": "2026-08-31T20:55:41.777Z",
+    "attachments": [],
+    "author": "Billy Boy"
+  },
+  {
     "id": "b2c4d97c-4351-4749-b449-4ad89374e616",
     "place": "Hud da fazenda",
     "description": "a Hud da fazenda está muito pequena, aqui na loja do walter biggs, nao sei o que estou a comprar",
@@ -12,7 +21,8 @@
         "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/b2c4d97c-4351-4749-b449-4ad89374e616/image.png",
         "sha": "4cf1f155a6a250b67ed6d04895e83c8e747d9162"
       }
-    ]
+    ],
+    "author": "Billy Boy"
   },
   {
     "id": "fc79bba3-33bc-4770-a203-9005388c4f1e",
@@ -20,7 +30,8 @@
     "description": "Tentei iniciar trabalho de lavagem de alta pressão mas supostamente precisa de 2 pessoas para trabalhar então eu pressionei esc pra sair e ao sair nao consegui entrar denovo no placar dos trabalhos",
     "status": "open",
     "createdAt": "2026-08-31T20:39:09.970Z",
-    "attachments": []
+    "attachments": [],
+    "author": "Billy Boy"
   },
   {
     "id": "a5e64082-2d6a-4545-b1fe-98b744c34444",
@@ -28,6 +39,7 @@
     "description": "coloquei varias peças incompativeis com praticamente 100% probabilidade de quebra e o carro nao partiu de jeito algum",
     "status": "open",
     "createdAt": "2026-08-31T20:26:52.868Z",
-    "attachments": []
+    "attachments": [],
+    "author": "Billy Boy"
   }
 ]
