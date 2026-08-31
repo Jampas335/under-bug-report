@@ -1,5 +1,13 @@
 [
   {
+    "id": "b2c4d97c-4351-4749-b449-4ad89374e616",
+    "place": "Hud da fazenda",
+    "description": "a Hud da fazenda está muito pequena, aqui na loja do walter biggs, nao sei o que estou a comprar",
+    "status": "open",
+    "createdAt": "2026-08-31T20:46:59.706Z",
+    "attachments": []
+  },
+  {
     "id": "fc79bba3-33bc-4770-a203-9005388c4f1e",
     "place": "Tentei iniciar trabalho de lavagem de alta pressão",
     "description": "Tentei iniciar trabalho de lavagem de alta pressão mas supostamente precisa de 2 pessoas para trabalhar então eu pressionei esc pra sair e ao sair nao consegui entrar denovo no placar dos trabalhos",
