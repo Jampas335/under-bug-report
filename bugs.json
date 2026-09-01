@@ -5,7 +5,14 @@
     "description": "Crash ocorrido durante passagem no esgoto na parte da água, localização do ocorrido vec4(592.6, -1116.99, 8.64, 271.44).",
     "status": "open",
     "createdAt": "2026-09-01T23:09:37.171Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "CfxCrashDump_2026_09_01_23_06_01.zip",
+        "path": "attachments/344615a7-edb7-4a3d-aae3-3709765a871d/CfxCrashDump_2026_09_01_23_06_01.zip",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/344615a7-edb7-4a3d-aae3-3709765a871d/CfxCrashDump_2026_09_01_23_06_01.zip",
+        "sha": "6d67c6fe6218049dc896aa8b30076a0e998fc5bf"
+      }
+    ],
     "author": "Darkin"
   },
   {
