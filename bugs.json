@@ -1,5 +1,14 @@
 [
   {
+    "id": "ad770516-25d0-4c19-adbe-292a6817a5d0",
+    "place": "Preá Ranch",
+    "description": "Ajustar a pá na mão do personagem, está ao contrario, bem como deixar no ox_target para plantação apenas a opção que o jogador possuir semente no inventário.",
+    "status": "open",
+    "createdAt": "2026-09-01T22:36:51.071Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "ae77f9d4-4135-4b8a-9d98-cc27b962ed16",
     "place": "Caverna de mineração: Joshua",
     "description": "Houve crash no momento de sair do primeiro túnel a esquerda do interior da caverna de mineração, extamente na localização vec4(656.33, 3470.24, 33.9, 97.7), conforme arquivo de crash zip anexo.",
