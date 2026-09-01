@@ -5,7 +5,14 @@
     "description": "o guarda sol fica flutuando na agua, depois de quando faz o mini game de cavar",
     "status": "open",
     "createdAt": "2026-09-01T02:04:39.420Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "Captura de tela 2026-08-31 230313.png",
+        "path": "attachments/f54d538f-8fd9-47d8-a05d-50f7a6b8d87a/Captura-de-tela-2026-08-31-230313.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/f54d538f-8fd9-47d8-a05d-50f7a6b8d87a/Captura-de-tela-2026-08-31-230313.png",
+        "sha": "2683c479fe625a7f6f751ad3654d723ff442d645"
+      }
+    ],
     "author": "judsu"
   },
   {
