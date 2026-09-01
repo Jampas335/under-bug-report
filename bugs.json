@@ -5,7 +5,14 @@
     "description": "os icones esta pequenos demais no menu de compra do material de serviço",
     "status": "open",
     "createdAt": "2026-09-01T01:52:57.364Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "Captura de tela 2026-08-31 225109.png",
+        "path": "attachments/9f7e1e9d-2b5e-4818-a9f3-0a61f84f3838/Captura-de-tela-2026-08-31-225109.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/9f7e1e9d-2b5e-4818-a9f3-0a61f84f3838/Captura-de-tela-2026-08-31-225109.png",
+        "sha": "9bb508482c86c41d6c76940233855860193c2ace"
+      }
+    ],
     "author": "judsu"
   },
   {
