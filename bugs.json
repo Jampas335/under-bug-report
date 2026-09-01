@@ -1,5 +1,14 @@
 [
   {
+    "id": "c22ecd78-e1bb-493a-9a34-af8fdb50ab1e",
+    "place": "trabalho de lixeiro",
+    "description": "quando se faz a entrega do caminhao depois que termina as rotas de coletas, o caminhao buga, o personagem nao consegue sair do caminhao e fica preso dentro dele ate aparecer uma mensagem dizer que o pagamento foi cancelado",
+    "status": "open",
+    "createdAt": "2026-09-01T02:28:41.896Z",
+    "attachments": [],
+    "author": "judsu"
+  },
+  {
     "id": "f54d538f-8fd9-47d8-a05d-50f7a6b8d87a",
     "place": "trabalho de limpeza de costa",
     "description": "o guarda sol fica flutuando na agua, depois de quando faz o mini game de cavar",
