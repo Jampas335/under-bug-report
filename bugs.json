@@ -5,7 +5,20 @@
     "description": "Houve crash no momento de sair do primeiro túnel a esquerda do interior da caverna de mineração, extamente na localização vec4(656.33, 3470.24, 33.9, 97.7), conforme arquivo de crash zip anexo.",
     "status": "open",
     "createdAt": "2026-09-01T22:19:58.884Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "CfxCrashDump_2026_09_01_22_11_55.zip",
+        "path": "attachments/ae77f9d4-4135-4b8a-9d98-cc27b962ed16/CfxCrashDump_2026_09_01_22_11_55.zip",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/ae77f9d4-4135-4b8a-9d98-cc27b962ed16/CfxCrashDump_2026_09_01_22_11_55.zip",
+        "sha": "a3ef76b2952e05f951b1766c9ded9096cdab22d1"
+      },
+      {
+        "name": "image.png",
+        "path": "attachments/ae77f9d4-4135-4b8a-9d98-cc27b962ed16/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/ae77f9d4-4135-4b8a-9d98-cc27b962ed16/image.png",
+        "sha": "02c07973d2a410a4c2dfef5ca0e5ae153a4fc18c"
+      }
+    ],
     "author": "Darkin"
   },
   {
