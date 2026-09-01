@@ -1,5 +1,14 @@
 [
   {
+    "id": "5d56ac27-e4d2-4e7f-86f6-2b656c2731cc",
+    "place": "Preá Ranch",
+    "description": "O minigame de colher os frutos das plantas está saindo toda vez que é colhido um fruto em vez de apenas passar para o próximo fruto. A colheita do milho está muito demorada, atualmente é necessário 20 clicks para colher 1 espiga, diminuir para 10, metade do tempo atual.",
+    "status": "open",
+    "createdAt": "2026-09-01T22:50:15.331Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "ad770516-25d0-4c19-adbe-292a6817a5d0",
     "place": "Preá Ranch",
     "description": "Ajustar a pá na mão do personagem, está ao contrario, bem como deixar no ox_target para plantação apenas a opção que o jogador possuir semente no inventário.",
