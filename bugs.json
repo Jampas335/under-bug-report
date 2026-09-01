@@ -1,5 +1,14 @@
 [
   {
+    "id": "344615a7-edb7-4a3d-aae3-3709765a871d",
+    "place": "Crash Esgoto",
+    "description": "Crash ocorrido durante passagem no esgoto na parte da água, localização do ocorrido vec4(592.6, -1116.99, 8.64, 271.44).",
+    "status": "open",
+    "createdAt": "2026-09-01T23:09:37.171Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "5d56ac27-e4d2-4e7f-86f6-2b656c2731cc",
     "place": "Preá Ranch",
     "description": "O minigame de colher os frutos das plantas está saindo toda vez que é colhido um fruto em vez de apenas passar para o próximo fruto. A colheita do milho está muito demorada, atualmente é necessário 20 clicks para colher 1 espiga, diminuir para 10, metade do tempo atual.",
