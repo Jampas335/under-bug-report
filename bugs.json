@@ -1,5 +1,14 @@
 [
   {
+    "id": "ae77f9d4-4135-4b8a-9d98-cc27b962ed16",
+    "place": "Caverna de mineração: Joshua",
+    "description": "Houve crash no momento de sair do primeiro túnel a esquerda do interior da caverna de mineração, extamente na localização vec4(656.33, 3470.24, 33.9, 97.7), conforme arquivo de crash zip anexo.",
+    "status": "open",
+    "createdAt": "2026-09-01T22:19:58.884Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "c22ecd78-e1bb-493a-9a34-af8fdb50ab1e",
     "place": "trabalho de lixeiro",
     "description": "quando se faz a entrega do caminhao depois que termina as rotas de coletas, o caminhao buga, o personagem nao consegue sair do caminhao e fica preso dentro dele ate aparecer uma mensagem dizer que o pagamento foi cancelado",
