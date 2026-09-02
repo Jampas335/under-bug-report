@@ -1,5 +1,14 @@
 [
   {
+    "id": "a3ea0045-ebab-492b-9fea-32e5e3beca74",
+    "place": "Preá Ranch",
+    "description": "Colisão bugada na localização vec4(1286.28, 1891.83, 82.02, 138.0).",
+    "status": "open",
+    "createdAt": "2026-09-02T23:26:53.632Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "064f048d-839c-426e-a569-3de9813641d1",
     "place": "Casino",
     "description": "Comprei as fichas do casino e nao consigo jogar no casino",
