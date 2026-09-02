@@ -1,5 +1,14 @@
 [
   {
+    "id": "064f048d-839c-426e-a569-3de9813641d1",
+    "place": "Casino",
+    "description": "Comprei as fichas do casino e nao consigo jogar no casino",
+    "status": "open",
+    "createdAt": "2026-09-02T16:11:14.382Z",
+    "attachments": [],
+    "author": "Billy Boy"
+  },
+  {
     "id": "b7b1ddf5-449b-481a-a8b1-818094d40add",
     "place": "trabalho de limpeza de costa",
     "description": "quando se veste a roupa de mergulho, aparece uma peça de roupa a mais",
