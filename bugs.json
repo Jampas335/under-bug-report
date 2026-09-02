@@ -1,67 +1,18 @@
 [
   {
-    "id": "344615a7-edb7-4a3d-aae3-3709765a871d",
-    "place": "Crash Esgoto",
-    "description": "Crash ocorrido durante passagem no esgoto na parte da água, localização do ocorrido vec4(592.6, -1116.99, 8.64, 271.44).",
+    "id": "b7b1ddf5-449b-481a-a8b1-818094d40add",
+    "place": "trabalho de limpeza de costa",
+    "description": "quando se veste a roupa de mergulho, aparece uma peça de roupa a mais",
     "status": "open",
-    "createdAt": "2026-09-01T23:09:37.171Z",
-    "attachments": [
-      {
-        "name": "CfxCrashDump_2026_09_01_23_06_01.zip",
-        "path": "attachments/344615a7-edb7-4a3d-aae3-3709765a871d/CfxCrashDump_2026_09_01_23_06_01.zip",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/344615a7-edb7-4a3d-aae3-3709765a871d/CfxCrashDump_2026_09_01_23_06_01.zip",
-        "sha": "6d67c6fe6218049dc896aa8b30076a0e998fc5bf"
-      }
-    ],
-    "author": "Darkin"
-  },
-  {
-    "id": "5d56ac27-e4d2-4e7f-86f6-2b656c2731cc",
-    "place": "Preá Ranch",
-    "description": "O minigame de colher os frutos das plantas está saindo toda vez que é colhido um fruto em vez de apenas passar para o próximo fruto. A colheita do milho está muito demorada, atualmente é necessário 20 clicks para colher 1 espiga, diminuir para 10, metade do tempo atual.",
-    "status": "open",
-    "createdAt": "2026-09-01T22:50:15.331Z",
+    "createdAt": "2026-09-02T02:14:56.970Z",
     "attachments": [],
-    "author": "Darkin",
-    "implemented": true
-  },
-  {
-    "id": "ad770516-25d0-4c19-adbe-292a6817a5d0",
-    "place": "Preá Ranch",
-    "description": "Ajustar a pá na mão do personagem, está ao contrario, bem como deixar no ox_target para plantação apenas a opção que o jogador possuir semente no inventário.",
-    "status": "open",
-    "createdAt": "2026-09-01T22:36:51.071Z",
-    "attachments": [],
-    "author": "Darkin",
-    "implemented": true
-  },
-  {
-    "id": "ae77f9d4-4135-4b8a-9d98-cc27b962ed16",
-    "place": "Caverna de mineração: Joshua",
-    "description": "Houve crash no momento de sair do primeiro túnel a esquerda do interior da caverna de mineração, extamente na localização vec4(656.33, 3470.24, 33.9, 97.7), conforme arquivo de crash zip anexo.",
-    "status": "open",
-    "createdAt": "2026-09-01T22:19:58.884Z",
-    "attachments": [
-      {
-        "name": "CfxCrashDump_2026_09_01_22_11_55.zip",
-        "path": "attachments/ae77f9d4-4135-4b8a-9d98-cc27b962ed16/CfxCrashDump_2026_09_01_22_11_55.zip",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/ae77f9d4-4135-4b8a-9d98-cc27b962ed16/CfxCrashDump_2026_09_01_22_11_55.zip",
-        "sha": "a3ef76b2952e05f951b1766c9ded9096cdab22d1"
-      },
-      {
-        "name": "image.png",
-        "path": "attachments/ae77f9d4-4135-4b8a-9d98-cc27b962ed16/image.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/ae77f9d4-4135-4b8a-9d98-cc27b962ed16/image.png",
-        "sha": "02c07973d2a410a4c2dfef5ca0e5ae153a4fc18c"
-      }
-    ],
-    "author": "Darkin"
+    "author": "judsu"
   },
   {
     "id": "c22ecd78-e1bb-493a-9a34-af8fdb50ab1e",
     "place": "trabalho de lixeiro",
     "description": "quando se faz a entrega do caminhao depois que termina as rotas de coletas, o caminhao buga, o personagem nao consegue sair do caminhao e fica preso dentro dele ate aparecer uma mensagem dizer que o pagamento foi cancelado",
-    "status": "done",
+    "status": "open",
     "createdAt": "2026-09-01T02:28:41.896Z",
     "attachments": [],
     "author": "judsu"
