@@ -5,7 +5,14 @@
     "description": "quando se veste a roupa de mergulho, aparece uma peça de roupa a mais",
     "status": "open",
     "createdAt": "2026-09-02T02:14:56.970Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "Captura de tela 2026-09-01 231334.png",
+        "path": "attachments/b7b1ddf5-449b-481a-a8b1-818094d40add/Captura-de-tela-2026-09-01-231334.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/b7b1ddf5-449b-481a-a8b1-818094d40add/Captura-de-tela-2026-09-01-231334.png",
+        "sha": "3fca6eb0f370868ec81f31f305a115de981582fd"
+      }
+    ],
     "author": "judsu"
   },
   {
