@@ -1,5 +1,14 @@
 [
   {
+    "id": "ab76aaf7-2505-4899-b879-a6d965e9de56",
+    "place": "Preá Ranch",
+    "description": "A loja do npc não está dando para selecionar o item que quero comprar no final da loja tem um botão de + que fica selecionando fertilizante. Trator está sem força para sair das caixas de madeira. Regador está sumindo do inventário depois de um tempo ou está quebrando muito rápido (não sei se era para ser assim mesmo).",
+    "status": "open",
+    "createdAt": "2026-09-03T03:41:36.205Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "a3ea0045-ebab-492b-9fea-32e5e3beca74",
     "place": "Preá Ranch",
     "description": "Colisão bugada na localização vec4(1286.28, 1891.83, 82.02, 138.0).",
