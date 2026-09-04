@@ -5,7 +5,14 @@
     "description": "colocou a versão errada da moto judsu",
     "status": "open",
     "createdAt": "2026-09-04T00:10:26.529Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "Captura de tela 2026-09-03 210752.png",
+        "path": "attachments/f07c4a2a-85ba-4247-91b0-bbd38c97eb40/Captura-de-tela-2026-09-03-210752.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/f07c4a2a-85ba-4247-91b0-bbd38c97eb40/Captura-de-tela-2026-09-03-210752.png",
+        "sha": "44c17556efb1bff606a768afb50b254850693e8c"
+      }
+    ],
     "author": "judsu"
   },
   {
