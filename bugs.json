@@ -1,5 +1,14 @@
 [
   {
+    "id": "83a28756-f52e-4f86-916e-66e6ae38a391",
+    "place": "Crash na área de leão da montanha",
+    "description": "Jogo crashou quando está olhando o spawn de leão da montanha na localização 3034.164, 5560.505, 193.644",
+    "status": "open",
+    "createdAt": "2026-09-04T00:02:18.235Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "ab76aaf7-2505-4899-b879-a6d965e9de56",
     "place": "Preá Ranch",
     "description": "A loja do npc não está dando para selecionar o item que quero comprar no final da loja tem um botão de + que fica selecionando fertilizante. Trator está sem força para sair das caixas de madeira. Regador está sumindo do inventário depois de um tempo ou está quebrando muito rápido (não sei se era para ser assim mesmo).",
