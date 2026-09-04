@@ -5,7 +5,14 @@
     "description": "Jogo crashou quando está olhando o spawn de leão da montanha na localização 3034.164, 5560.505, 193.644",
     "status": "open",
     "createdAt": "2026-09-04T00:02:18.235Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "CfxCrashDump_2026_09_03_23_59_56.zip",
+        "path": "attachments/83a28756-f52e-4f86-916e-66e6ae38a391/CfxCrashDump_2026_09_03_23_59_56.zip",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/83a28756-f52e-4f86-916e-66e6ae38a391/CfxCrashDump_2026_09_03_23_59_56.zip",
+        "sha": "d1f3c9b0c0f5d33262f3db9fddca65ed5ae153d9"
+      }
+    ],
     "author": "Darkin"
   },
   {
