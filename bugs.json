@@ -1,5 +1,14 @@
 [
   {
+    "id": "48761d8d-9456-4c35-87e9-7c154dcef5cf",
+    "place": "Powerwashing",
+    "description": "Ao iniciar o serviço o equipamento não é entregue ao jogador, a loja no npc também é inutil, não mostra nada. Interface de avisos do serviço está em inglês.",
+    "status": "open",
+    "createdAt": "2026-09-05T19:46:27.876Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "71ce292d-0d45-44fe-9cb0-d8a2293e0d4f",
     "place": "Powerwawshing",
     "description": "Ao iniciar o serviço, não está entregando as chaves do veículo, não foi possível testar o serviço. NPC tem um loja que não vende nada. Achava interessante o sistema que mostrava as opções de contrato para poder escolher um.",
