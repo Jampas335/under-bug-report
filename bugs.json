@@ -5,7 +5,14 @@
     "description": "Ao iniciar o serviço o equipamento não é entregue ao jogador, a loja no npc também é inutil, não mostra nada. Interface de avisos do serviço está em inglês.",
     "status": "open",
     "createdAt": "2026-09-05T19:46:27.876Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/48761d8d-9456-4c35-87e9-7c154dcef5cf/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/48761d8d-9456-4c35-87e9-7c154dcef5cf/image.png",
+        "sha": "68d0644480a5f3aefb7df8b305ae36dbb3d1b0d6"
+      }
+    ],
     "author": "Darkin"
   },
   {
