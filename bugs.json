@@ -5,7 +5,14 @@
     "description": "Crash na localização vec4(724.4, -457.29, 37.07, 174.82).",
     "status": "open",
     "createdAt": "2026-09-06T04:33:25.543Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "CfxCrashDump_2026_09_06_04_30_45.zip",
+        "path": "attachments/5329da6f-b59e-4f49-84b4-3e30dd48ece8/CfxCrashDump_2026_09_06_04_30_45.zip",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/5329da6f-b59e-4f49-84b4-3e30dd48ece8/CfxCrashDump_2026_09_06_04_30_45.zip",
+        "sha": "7708772db14abf5d5e6393c89623fbd98317f81f"
+      }
+    ],
     "author": "Darkin"
   },
   {
