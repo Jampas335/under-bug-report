@@ -1,5 +1,14 @@
 [
   {
+    "id": "5329da6f-b59e-4f49-84b4-3e30dd48ece8",
+    "place": "Crash Popular Street",
+    "description": "Crash na localização vec4(724.4, -457.29, 37.07, 174.82).",
+    "status": "open",
+    "createdAt": "2026-09-06T04:33:25.543Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "48761d8d-9456-4c35-87e9-7c154dcef5cf",
     "place": "Powerwashing",
     "description": "Ao iniciar o serviço o equipamento não é entregue ao jogador, a loja no npc também é inutil, não mostra nada. Interface de avisos do serviço está em inglês.",
