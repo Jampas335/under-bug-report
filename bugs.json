@@ -1,5 +1,14 @@
 [
   {
+    "id": "47136ca8-dc3b-4706-80b1-640b71ae1aa2",
+    "place": "stories estão meio bugados",
+    "description": "stories do \"p\" estão meio bugados",
+    "status": "open",
+    "createdAt": "2026-09-07T18:08:07.891Z",
+    "attachments": [],
+    "author": "Billy Boy"
+  },
+  {
     "id": "8a5ed1fb-c065-47dc-9cf3-418f342aedb2",
     "place": "Powerwashing",
     "description": "As finalizar a limpeza dos locais, o serviço não avança, bem como não preenche os quadrados quando vai finalizando a limpeza de cada área. Fazer o ícone do item do powerwashing.",
