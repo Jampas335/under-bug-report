@@ -38,7 +38,7 @@
     "id": "48761d8d-9456-4c35-87e9-7c154dcef5cf",
     "place": "Powerwashing",
     "description": "Ao iniciar o serviço o equipamento não é entregue ao jogador, a loja no npc também é inutil, não mostra nada. Interface de avisos do serviço está em inglês.",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-05T19:46:27.876Z",
     "attachments": [
       {
@@ -48,7 +48,8 @@
         "sha": "68d0644480a5f3aefb7df8b305ae36dbb3d1b0d6"
       }
     ],
-    "author": "Darkin"
+    "author": "Darkin",
+    "implemented": false
   },
   {
     "id": "71ce292d-0d45-44fe-9cb0-d8a2293e0d4f",
