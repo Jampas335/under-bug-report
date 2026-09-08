@@ -1,5 +1,14 @@
 [
   {
+    "id": "57e330dd-4874-408c-8cff-a8e498eb19e1",
+    "place": "qbx_customs",
+    "description": "a parte dos extras dos veiculos ainda ta imcompleta, princiaplemte nos veiculos policiais, ta faltando peças para equipar",
+    "status": "open",
+    "createdAt": "2026-09-08T08:13:33.345Z",
+    "attachments": [],
+    "author": "Chimbinha"
+  },
+  {
     "id": "f84becc3-9d0c-4030-a8fb-2518fe983aa2",
     "place": "Caçador",
     "description": "Animação de esfolar ao ser iniciada, personagem gira em 360°, bem como a faca está um pouco torta na mão, urso ao primeiro contato com o jogador correr e somente depois de alguns tiros se torna agressivo, ele deverá ser agressivo por natureza, independente de tomar tiros.",
