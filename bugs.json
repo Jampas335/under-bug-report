@@ -39,10 +39,11 @@
     "id": "47136ca8-dc3b-4706-80b1-640b71ae1aa2",
     "place": "stories estão meio bugados",
     "description": "stories do \"p\" estão meio bugados",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-07T18:08:07.891Z",
     "attachments": [],
-    "author": "Billy Boy"
+    "author": "Billy Boy",
+    "implemented": false
   },
   {
     "id": "8a5ed1fb-c065-47dc-9cf3-418f342aedb2",
