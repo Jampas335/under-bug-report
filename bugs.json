@@ -5,7 +5,14 @@
     "description": "Algumas informações do menu, sendo está na parte de roupas que são liberadas, estão com linguagem mista, português e inglês.",
     "status": "open",
     "createdAt": "2026-09-08T04:20:10.542Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/a951a656-1f4b-4482-872b-639865404473/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/a951a656-1f4b-4482-872b-639865404473/image.png",
+        "sha": "c0322e4b6f0be7b2a1e4ffa45b22ccfbadf9a1f2"
+      }
+    ],
     "author": "Darkin"
   },
   {
