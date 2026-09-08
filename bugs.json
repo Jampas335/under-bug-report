@@ -5,7 +5,14 @@
     "description": "Não é possível realizar o lockpick nas motos.\nAo tentar utilizar a mecânica de lockpick em uma motocicleta, o processo não funciona( de fazer o mini game ), impedindo o jogador de destrancar e utilizar a moto.",
     "status": "open",
     "createdAt": "2026-09-08T04:26:13.231Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "Captura de tela 2026-09-08 012403.png",
+        "path": "attachments/a4de682b-d162-4270-941b-ab5ab6c8a152/Captura-de-tela-2026-09-08-012403.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/a4de682b-d162-4270-941b-ab5ab6c8a152/Captura-de-tela-2026-09-08-012403.png",
+        "sha": "ee6e17876e797bcb088d93d32287c44f1cadd236"
+      }
+    ],
     "author": "judsu"
   },
   {
