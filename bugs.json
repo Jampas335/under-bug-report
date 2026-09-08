@@ -1,5 +1,14 @@
 [
   {
+    "id": "a951a656-1f4b-4482-872b-639865404473",
+    "place": "Powerwashing",
+    "description": "Algumas informações do menu, sendo está na parte de roupas que são liberadas, estão com linguagem mista, português e inglês.",
+    "status": "open",
+    "createdAt": "2026-09-08T04:20:10.542Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "47136ca8-dc3b-4706-80b1-640b71ae1aa2",
     "place": "stories estão meio bugados",
     "description": "stories do \"p\" estão meio bugados",
