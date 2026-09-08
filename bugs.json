@@ -1,28 +1,12 @@
 [
   {
-    "id": "a951a656-1f4b-4482-872b-639865404473",
-    "place": "Powerwashing",
-    "description": "Algumas informações do menu, sendo está na parte de roupas que são liberadas, estão com linguagem mista, português e inglês.",
+    "id": "a4de682b-d162-4270-941b-ab5ab6c8a152",
+    "place": "Lockpick nas Motos",
+    "description": "Não é possível realizar o lockpick nas motos.\nAo tentar utilizar a mecânica de lockpick em uma motocicleta, o processo não funciona( de fazer o mini game ), impedindo o jogador de destrancar e utilizar a moto.",
     "status": "open",
-    "createdAt": "2026-09-08T04:20:10.542Z",
-    "attachments": [
-      {
-        "name": "image.png",
-        "path": "attachments/a951a656-1f4b-4482-872b-639865404473/image.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/a951a656-1f4b-4482-872b-639865404473/image.png",
-        "sha": "c0322e4b6f0be7b2a1e4ffa45b22ccfbadf9a1f2"
-      }
-    ],
-    "author": "Darkin"
-  },
-  {
-    "id": "47136ca8-dc3b-4706-80b1-640b71ae1aa2",
-    "place": "stories estão meio bugados",
-    "description": "stories do \"p\" estão meio bugados",
-    "status": "open",
-    "createdAt": "2026-09-07T18:08:07.891Z",
+    "createdAt": "2026-09-08T04:26:13.231Z",
     "attachments": [],
-    "author": "Billy Boy"
+    "author": "judsu"
   },
   {
     "id": "8a5ed1fb-c065-47dc-9cf3-418f342aedb2",
@@ -54,7 +38,7 @@
     "id": "48761d8d-9456-4c35-87e9-7c154dcef5cf",
     "place": "Powerwashing",
     "description": "Ao iniciar o serviço o equipamento não é entregue ao jogador, a loja no npc também é inutil, não mostra nada. Interface de avisos do serviço está em inglês.",
-    "status": "done",
+    "status": "open",
     "createdAt": "2026-09-05T19:46:27.876Z",
     "attachments": [
       {
@@ -64,18 +48,16 @@
         "sha": "68d0644480a5f3aefb7df8b305ae36dbb3d1b0d6"
       }
     ],
-    "author": "Darkin",
-    "implemented": false
+    "author": "Darkin"
   },
   {
     "id": "71ce292d-0d45-44fe-9cb0-d8a2293e0d4f",
     "place": "Powerwawshing",
     "description": "Ao iniciar o serviço, não está entregando as chaves do veículo, não foi possível testar o serviço. NPC tem um loja que não vende nada. Achava interessante o sistema que mostrava as opções de contrato para poder escolher um.",
-    "status": "done",
+    "status": "open",
     "createdAt": "2026-09-05T05:03:53.201Z",
     "attachments": [],
-    "author": "Darkin",
-    "implemented": false
+    "author": "Darkin"
   },
   {
     "id": "f07c4a2a-85ba-4247-91b0-bbd38c97eb40",
