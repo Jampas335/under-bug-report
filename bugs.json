@@ -5,7 +5,14 @@
     "description": "Ver se, qualquer um que nao é policial, consegue ver e emitir isso aqui",
     "status": "open",
     "createdAt": "2026-09-08T22:36:38.085Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/4b5e9563-b332-43d6-8cf5-b9b1c9eb538e/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/4b5e9563-b332-43d6-8cf5-b9b1c9eb538e/image.png",
+        "sha": "66509ce0dce6ae26de114873841adef88fe4b460"
+      }
+    ],
     "author": "Chimbinha"
   },
   {
