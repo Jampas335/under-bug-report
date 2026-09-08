@@ -181,10 +181,11 @@
     "id": "fc79bba3-33bc-4770-a203-9005388c4f1e",
     "place": "Tentei iniciar trabalho de lavagem de alta pressão",
     "description": "Tentei iniciar trabalho de lavagem de alta pressão mas supostamente precisa de 2 pessoas para trabalhar então eu pressionei esc pra sair e ao sair nao consegui entrar denovo no placar dos trabalhos",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-08-31T20:39:09.970Z",
     "attachments": [],
-    "author": "Billy Boy"
+    "author": "Billy Boy",
+    "implemented": false
   },
   {
     "id": "a5e64082-2d6a-4545-b1fe-98b744c34444",
