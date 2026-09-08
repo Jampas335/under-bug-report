@@ -99,22 +99,6 @@
     "implemented": false
   },
   {
-    "id": "f07c4a2a-85ba-4247-91b0-bbd38c97eb40",
-    "place": "Moto Judsu",
-    "description": "colocou a versão errada da moto judsu",
-    "status": "open",
-    "createdAt": "2026-09-04T00:10:26.529Z",
-    "attachments": [
-      {
-        "name": "Captura de tela 2026-09-03 210752.png",
-        "path": "attachments/f07c4a2a-85ba-4247-91b0-bbd38c97eb40/Captura-de-tela-2026-09-03-210752.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/f07c4a2a-85ba-4247-91b0-bbd38c97eb40/Captura-de-tela-2026-09-03-210752.png",
-        "sha": "44c17556efb1bff606a768afb50b254850693e8c"
-      }
-    ],
-    "author": "judsu"
-  },
-  {
     "id": "ab76aaf7-2505-4899-b879-a6d965e9de56",
     "place": "Preá Ranch",
     "description": "A loja do npc não está dando para selecionar o item que quero comprar no final da loja tem um botão de + que fica selecionando fertilizante. Trator está sem força para sair das caixas de madeira. Regador está sumindo do inventário depois de um tempo ou está quebrando muito rápido (não sei se era para ser assim mesmo).",
