@@ -5,7 +5,14 @@
     "description": "As escritas das charges de crimes estão desfocadas.",
     "status": "open",
     "createdAt": "2026-09-09T04:40:08.428Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/c1197682-4547-466d-b0d0-3dba7bb73739/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/c1197682-4547-466d-b0d0-3dba7bb73739/image.png",
+        "sha": "5e8aa07596ada5e9739f2abcf51e877e5adce2c9"
+      }
+    ],
     "author": "Darkin"
   },
   {
