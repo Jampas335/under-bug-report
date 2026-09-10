@@ -1,5 +1,14 @@
 [
   {
+    "id": "18df73c1-543b-4f6f-ae24-70a28b81ad67",
+    "place": "17movcharacter",
+    "description": "quadno se cria um personagem novo, ele ta dando a opção de apenas ir para o lombamk center, sendo q, esse apartametno nem existe mais, fazendo o jgoador limbar caso spawne nele",
+    "status": "open",
+    "createdAt": "2026-09-10T10:44:45.086Z",
+    "attachments": [],
+    "author": "Chimbinha"
+  },
+  {
     "id": "b3a73b79-3157-4131-ac67-e9df51adb877",
     "place": "Powerwashing",
     "description": "Agora as roupas sempre estão indo 1 por 1, por exemplo, se clica na roupa mais avançada para vestir, veste a iniciante e tem que ficar clicando novamente para ir avançando as roupas, em vez de ir direto para a selecionada.",
