@@ -1,5 +1,14 @@
 [
   {
+    "id": "c62dd5fa-4d99-42a8-ba8b-2eec78e0e78a",
+    "place": "Algemas",
+    "description": "Ao algemas o jogador, o minigame não está funcionando, o jogador aperta a tecla e que aparece, porém ela fica vermelha e conta como erro, não passando para as próximas do minigame. Ou está bugado, ou está com um time estranho.",
+    "status": "open",
+    "createdAt": "2026-09-10T05:05:42.069Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "fba8dd8d-db43-4856-87c9-9857540dac5d",
     "place": "Polícia",
     "description": "Colocar o mesmo prop de GSR para quando fizer a animação de coleta de dna.",
