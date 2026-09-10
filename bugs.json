@@ -2,7 +2,7 @@
   {
     "id": "c62dd5fa-4d99-42a8-ba8b-2eec78e0e78a",
     "place": "Algemas",
-    "description": "Ao algemas o jogador, o minigame não está funcionando, o jogador aperta a tecla e que aparece, porém ela fica vermelha e conta como erro, não passando para as próximas do minigame. Ou está bugado, ou está com um time estranho.",
+    "description": "Ao algemas o jogador, o minigame não está funcionando, o jogador aperta a tecla e que aparece, porém ela fica vermelha e conta como erro, não passando para as próximas do minigame. Ou está bugado, ou está com um time estranho. O jogador após ser desalgemas, está ficando com um algema invisivel, por exemplo, não consegue subir em muros e quando cai faz uma animação rápida de algemado e depois sai.",
     "status": "open",
     "createdAt": "2026-09-10T05:05:42.069Z",
     "attachments": [],
