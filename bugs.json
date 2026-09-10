@@ -1,5 +1,14 @@
 [
   {
+    "id": "5b6ff263-d87d-4fd0-8e07-03dac279e419",
+    "place": "Crash",
+    "description": "Crash na localização vec4(486.49, -474.62, 42.77, 177.71).",
+    "status": "open",
+    "createdAt": "2026-09-10T22:59:03.558Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "18df73c1-543b-4f6f-ae24-70a28b81ad67",
     "place": "17movcharacter",
     "description": "quadno se cria um personagem novo, ele ta dando a opção de apenas ir para o lombamk center, sendo q, esse apartametno nem existe mais, fazendo o jgoador limbar caso spawne nele",
