@@ -1,5 +1,14 @@
 [
   {
+    "id": "59cc7637-30e4-432a-8cc2-3bc3afd8345e",
+    "place": "MDT",
+    "description": "Vez sistema de foto (mugshot) para víncular diretamente a foto tirada na animação ao MDT, quando o jogador é preso. Bem como implementação de câmera para polícia e vínculado das fotos tiradas por ela ao MDT.",
+    "status": "open",
+    "createdAt": "2026-09-10T05:22:27.455Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "c62dd5fa-4d99-42a8-ba8b-2eec78e0e78a",
     "place": "Algemas",
     "description": "Ao algemas o jogador, o minigame não está funcionando, o jogador aperta a tecla e que aparece, porém ela fica vermelha e conta como erro, não passando para as próximas do minigame. Ou está bugado, ou está com um time estranho. O jogador após ser desalgemas, está ficando com um algema invisivel, por exemplo, não consegue subir em muros e quando cai faz uma animação rápida de algemado e depois sai.",
