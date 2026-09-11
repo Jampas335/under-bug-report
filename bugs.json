@@ -1,5 +1,14 @@
 [
   {
+    "id": "5209e690-b595-4378-81de-1d38385288f1",
+    "place": "Mesa Madereira",
+    "description": "Ao colocar 6 troncos na mesa da madeireira e processar 5 troncos, a mesa informa que ainda tem 2 troncos para serem processados, sendo que na verdade tem somente 1, portanto, não está lendo corretamente o que tem armazenado. Também, a quantidade fica travado em 2 quando processa os 5, sendo necessário sair da mesa e abrir novamente para abaixar para 1.",
+    "status": "open",
+    "createdAt": "2026-09-11T02:20:03.198Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "5b6ff263-d87d-4fd0-8e07-03dac279e419",
     "place": "Crash",
     "description": "Crash na localização vec4(486.49, -474.62, 42.77, 177.71).",
