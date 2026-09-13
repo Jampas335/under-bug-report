@@ -1,5 +1,14 @@
 [
   {
+    "id": "ac902148-167b-4186-8937-cd5dbc3c3881",
+    "place": "celular",
+    "description": "nao sei se é so o meu celular, mas ele abre os app antes de sumir a tela incial do celular, isso acontence des do incio dos celulres no server, nao sei se é a rota da minha internete, ou que diabo é isso",
+    "status": "open",
+    "createdAt": "2026-09-13T20:16:10.382Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "b3077fff-9b49-48ab-a23f-b2e2b2e285d2",
     "place": "dançarino no bahamas",
     "description": "entrei em serviço e fui tentar dançar, esta aparecendo o (E) interagir normar, mas depois de eu escolher uma dança, ele aparece esse erro e nao da pra dacar",
