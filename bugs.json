@@ -5,7 +5,14 @@
     "description": "quando a gente vai limpar a platarforma do raton canyon, e chega a 100%, ele nao estao completando o trabalho",
     "status": "open",
     "createdAt": "2026-09-13T20:47:21.839Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-09-13_174622520.png",
+        "path": "attachments/ba223151-9adf-4e11-9800-f297f327a8de/imagem_2026-09-13_174622520.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/ba223151-9adf-4e11-9800-f297f327a8de/imagem_2026-09-13_174622520.png",
+        "sha": "db8b883c32c885fb7fb7075035266c4aae4488db"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
