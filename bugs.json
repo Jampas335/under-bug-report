@@ -1,5 +1,14 @@
 [
   {
+    "id": "dcfd6788-c233-44f7-b923-8f89ff7549c4",
+    "place": "voice do server",
+    "description": "sempre acontece isso comigo, nao sei se é bug do server ou meu pessoal, mas tem vezes que eu fico falando msm nao estando com o botao de falar clicado, ele fica falando infito, so arruma quando eu entro e saio do server",
+    "status": "open",
+    "createdAt": "2026-09-13T20:08:51.591Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "bf4ebf3a-8cd4-492d-a9d5-9ccc404d7b8e",
     "place": "louja de roupa",
     "description": "na loja de roupas depois dessa nova atualizaçao do 160 a 167 nao aprece nada nas calças, , nem 171 nem 169, tipo nao esta aparecendo nem a foto, nem as roupas no personagem em si. e no numero, 554 da parte superior masculina, esta aparecendo uma roupa masculina.",
