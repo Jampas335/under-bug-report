@@ -1,5 +1,14 @@
 [
   {
+    "id": "ba223151-9adf-4e11-9800-f297f327a8de",
+    "place": "LAVAR ROUPAS",
+    "description": "quando a gente vai limpar a platarforma do raton canyon, e chega a 100%, ele nao estao completando o trabalho",
+    "status": "open",
+    "createdAt": "2026-09-13T20:47:21.839Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "38226f02-064c-47da-adab-c176a7329bbd",
     "place": "saquear",
     "description": "quando voce vai saquer alguem morto, ele fica saindo e entrando do saqueamento, tipo incia o script e para e incia dnv e para, infitas vezes",
