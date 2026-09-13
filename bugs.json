@@ -1,5 +1,14 @@
 [
   {
+    "id": "da6122ec-16f0-43a5-9ac9-1e7e284ba1ff",
+    "place": "armas quebradas",
+    "description": "quando o crazy dog estava tentando me reviver com uma arma quebrada, quando ele errava o minigame e clica no botao de atirar, ele da um tiro msm com a arma quebrada",
+    "status": "open",
+    "createdAt": "2026-09-13T20:30:25.484Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "afc2385d-a3ae-4340-b35a-16bfe9c69302",
     "place": "render",
     "description": "se voce rende alguem que esta em um menu de conversa com o npc, ele buga, eu fico de baixo da terra, e para o outro player, eu fico flicando",
