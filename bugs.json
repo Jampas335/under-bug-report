@@ -1,5 +1,14 @@
 [
   {
+    "id": "38226f02-064c-47da-adab-c176a7329bbd",
+    "place": "saquear",
+    "description": "quando voce vai saquer alguem morto, ele fica saindo e entrando do saqueamento, tipo incia o script e para e incia dnv e para, infitas vezes",
+    "status": "open",
+    "createdAt": "2026-09-13T20:32:14.836Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "da6122ec-16f0-43a5-9ac9-1e7e284ba1ff",
     "place": "armas quebradas",
     "description": "quando o crazy dog estava tentando me reviver com uma arma quebrada, quando ele errava o minigame e clica no botao de atirar, ele da um tiro msm com a arma quebrada",
