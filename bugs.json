@@ -1,5 +1,14 @@
 [
   {
+    "id": "bf4ebf3a-8cd4-492d-a9d5-9ccc404d7b8e",
+    "place": "louja de roupa",
+    "description": "na loja de roupas depois dessa nova atualizaçao do 160 a 167 nao aprece nada nas calças, , nem 171 nem 169, tipo nao esta aparecendo nem a foto, nem as roupas no personagem em si. e no numero, 554 da parte superior masculina, esta aparecendo uma roupa masculina.",
+    "status": "open",
+    "createdAt": "2026-09-13T20:03:26.409Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "0e7c7bc9-f936-408f-9b58-da0faf312c71",
     "place": "prea-inventory",
     "description": "se o jogador tiver com uma arma na mao, e enviar o item dela para otura pessoa, ou jogadr o item no chao, arma continua na mao dele normalmente, e funcioando, mesmo sem ele estar com o item",
