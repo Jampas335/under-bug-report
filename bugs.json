@@ -1,5 +1,14 @@
 [
   {
+    "id": "b3077fff-9b49-48ab-a23f-b2e2b2e285d2",
+    "place": "dançarino no bahamas",
+    "description": "entrei em serviço e fui tentar dançar, esta aparecendo o (E) interagir normar, mas depois de eu escolher uma dança, ele aparece esse erro e nao da pra dacar",
+    "status": "open",
+    "createdAt": "2026-09-13T20:12:37.960Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "dcfd6788-c233-44f7-b923-8f89ff7549c4",
     "place": "voice do server",
     "description": "sempre acontece isso comigo, nao sei se é bug do server ou meu pessoal, mas tem vezes que eu fico falando msm nao estando com o botao de falar clicado, ele fica falando infito, so arruma quando eu entro e saio do server",
