@@ -5,7 +5,14 @@
     "description": "A camiseta da prisão aparentemente sumiu o modelo ou foi substituída, está saindo um camiseta de time.",
     "status": "open",
     "createdAt": "2026-09-14T23:37:24.224Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/33891aaf-4edd-4ca1-8be3-1b72da77214f/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/33891aaf-4edd-4ca1-8be3-1b72da77214f/image.png",
+        "sha": "06c01865314de5cfc76cfd63c949a3443648f5e2"
+      }
+    ],
     "author": "Darkin"
   },
   {
