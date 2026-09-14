@@ -5,7 +5,14 @@
     "description": "Ao tentar prender alguém, o mdt dá erro: \"Erro interno ao processar operação\".",
     "status": "open",
     "createdAt": "2026-09-14T01:12:10.427Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/4b57e388-f95a-422e-971c-6411adb60697/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/4b57e388-f95a-422e-971c-6411adb60697/image.png",
+        "sha": "81febe1bd7af78f83a010b339a743d2d50c40e52"
+      }
+    ],
     "author": "Darkin"
   },
   {
