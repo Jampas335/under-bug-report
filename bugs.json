@@ -1,5 +1,14 @@
 [
   {
+    "id": "27c1b454-87c0-4fb6-9226-a818e37a59fd",
+    "place": "Prisão",
+    "description": "Adicionar blip de enfermaria na localização vec4(1759.7, 2584.6, 45.0, 191.49). Ajustar o npc da enfermaria, está afundado no chão, para localização  vec4(1761.688, 2581.339, 45.997, 164.54).\n\nO npc de liberar o preso não deverá ficar no mesmo que o de devolver os itens, o npc de liberação quando acaba o tempo de prisão deverá ficar na localização vec4(1782.081, 2568.739, 46.001, 85.59), bem como deverá ser criado blip nesse local. Sendo que o jogador ao ser liberado no npc, deverá ser teleportado para a localização vec4(1786.97, 2591.53, 45.0, 283.6).",
+    "status": "open",
+    "createdAt": "2026-09-14T23:52:44.429Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "33891aaf-4edd-4ca1-8be3-1b72da77214f",
     "place": "Prisão",
     "description": "A camiseta da prisão aparentemente sumiu o modelo ou foi substituída, está saindo um camiseta de time.",
