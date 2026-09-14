@@ -2,7 +2,7 @@
   {
     "id": "c108af61-2179-4bd9-ab0f-b13816995848",
     "place": "lavar casas",
-    "description": "nao tem como parar o serviço antes de terminar ele",
+    "description": "nao tem como para o serviço antes de terminar ele",
     "status": "open",
     "createdAt": "2026-09-13T20:50:16.964Z",
     "attachments": [],
@@ -92,7 +92,8 @@
         "sha": "f5168a3eabe4c6ee903190012d8286e5fbfa0790"
       }
     ],
-    "author": "vitin gordao da xj plus viado ui"
+    "author": "vitin gordao da xj plus viado ui",
+    "implemented": true
   },
   {
     "id": "dcfd6788-c233-44f7-b923-8f89ff7549c4",
