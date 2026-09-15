@@ -5,7 +5,14 @@
     "description": "vec4(-1707.4, -475.06, 40.59, 80.68) nessa vec4 tem um barrio interio nao configurado, tipo portas sem trancas e casas buracos nas portas sem casas",
     "status": "open",
     "createdAt": "2026-09-15T22:02:35.636Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-09-15_190231500.png",
+        "path": "attachments/454c7739-9434-4f37-98a7-60a43bf4ab8d/imagem_2026-09-15_190231500.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/454c7739-9434-4f37-98a7-60a43bf4ab8d/imagem_2026-09-15_190231500.png",
+        "sha": "88a290e9baa4120bfcc761a2c6ec3bf8e46e1840"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
