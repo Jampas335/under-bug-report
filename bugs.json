@@ -5,7 +5,14 @@
     "description": "Ao entrar no perfil do jogador na corrida, e visualizar o histórico de corridas, mostra o nome de spawn dos veículos e não o nome do veículo.",
     "status": "open",
     "createdAt": "2026-09-16T05:05:19.993Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/57ad1b5c-3763-4914-b79c-0808ddc0c16e/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/57ad1b5c-3763-4914-b79c-0808ddc0c16e/image.png",
+        "sha": "0274c1d094f198e61cfb61446dff54747a750124"
+      }
+    ],
     "author": "Darkin"
   },
   {
