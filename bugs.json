@@ -5,7 +5,14 @@
     "description": "Ao tentar entregar a caixa no local, fala para entregar a caixa do endereço selecionado, então o jogador tem que tentar caixa por caixa para achar a certa.",
     "status": "open",
     "createdAt": "2026-09-16T02:25:04.853Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/412fa3d3-9988-457c-89f4-0c2a325b34d6/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/412fa3d3-9988-457c-89f4-0c2a325b34d6/image.png",
+        "sha": "2be30e655a862cafcbd92521278e0ce9c764fd34"
+      }
+    ],
     "author": "Darkin"
   },
   {
