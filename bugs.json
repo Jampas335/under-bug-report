@@ -5,7 +5,20 @@
     "description": "Ao levar o veículo até o local indicado pelo NPC para colocá-lo no Black Market, o veículo fantasma utilizado como referência para o posicionamento está aparecendo parcialmente embaixo da terra.\nAlém disso, esse veículo fantasma está com colisão ativada, atrapalhando o jogador na hora de posicionar o veículo corretamente no local indicado.",
     "status": "open",
     "createdAt": "2026-09-16T05:14:28.902Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "Captura de tela 2026-09-16 021032.png",
+        "path": "attachments/430b9496-662e-4879-90da-97aec2937818/Captura-de-tela-2026-09-16-021032.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/430b9496-662e-4879-90da-97aec2937818/Captura-de-tela-2026-09-16-021032.png",
+        "sha": "00bdad81b683a1fe8f7ef1ff252f15a0212d0422"
+      },
+      {
+        "name": "Captura de tela 2026-09-16 021055.png",
+        "path": "attachments/430b9496-662e-4879-90da-97aec2937818/Captura-de-tela-2026-09-16-021055.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/430b9496-662e-4879-90da-97aec2937818/Captura-de-tela-2026-09-16-021055.png",
+        "sha": "c0f9345e42e3b3986c2378cae2c380e9eec183a1"
+      }
+    ],
     "author": "judsu"
   },
   {
