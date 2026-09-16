@@ -1,5 +1,14 @@
 [
   {
+    "id": "98618360-1ac0-4f38-b32c-4d63d53b2b99",
+    "place": "Restaurantes",
+    "description": "The taco farmers, na receita de taco de rato e nachos pata de urubu, substituir o milho por farinha de trigo.\n\nHornys, na receita de frango empanado, trocar milho por batata.\n\nThe Boata House, na receita peixe com fritas e cesta de camarão, trocar milho por batata.",
+    "status": "open",
+    "createdAt": "2026-09-16T14:46:36.462Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "00065b19-dbbf-4353-b0fe-136b052df86f",
     "place": "Algemas",
     "description": "O jogador ao acertar o minigame de algemas, continua com a posição de algemado até sofrer uma queda, depois quando sofre uma queda, volta ao normal, mostrando desalgemado. Tentar resolver sobre o script de algemas somente algemar se estiver atrás do jogador, pois quando o jogador está caído depois do tackle, o policial não consegue algemas, tendo o jogador que ficar parado para poder ser algemado. Por fim, quando o jogador acerta o minigame de algemas, o policial faz a animação desalgemando, sendo que deveria ser a algemas apenas desaparecendo.",
