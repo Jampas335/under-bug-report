@@ -1,5 +1,14 @@
 [
   {
+    "id": "57ad1b5c-3763-4914-b79c-0808ddc0c16e",
+    "place": "Corrida",
+    "description": "Ao entrar no perfil do jogador na corrida, e visualizar o histórico de corridas, mostra o nome de spawn dos veículos e não o nome do veículo.",
+    "status": "open",
+    "createdAt": "2026-09-16T05:05:19.993Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "412fa3d3-9988-457c-89f4-0c2a325b34d6",
     "place": "Go Postal",
     "description": "Ao tentar entregar a caixa no local, fala para entregar a caixa do endereço selecionado, então o jogador tem que tentar caixa por caixa para achar a certa.",
