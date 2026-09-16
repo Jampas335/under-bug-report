@@ -1,5 +1,14 @@
 [
   {
+    "id": "e7471410-ead1-4908-a0c8-66730addfe56",
+    "place": "Algemas",
+    "description": "O jogador ao ser algemado, não consegue andar, bem como não está funcionando o desalgemar, quando funciona, o jogador também não consegue andar. Não é possível algemar o jogador quando ele está caído no chão, aparece o erro da imagem.",
+    "status": "open",
+    "createdAt": "2026-09-16T22:42:53.077Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "98618360-1ac0-4f38-b32c-4d63d53b2b99",
     "place": "Restaurantes",
     "description": "The taco farmers, na receita de taco de rato e nachos pata de urubu, substituir o milho por farinha de trigo.\n\nHornys, na receita de frango empanado, trocar milho por batata.\n\nThe Boata House, na receita peixe com fritas e cesta de camarão, trocar milho por batata.",
