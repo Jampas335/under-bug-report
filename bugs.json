@@ -25,22 +25,6 @@
     "author": "Darkin"
   },
   {
-    "id": "412fa3d3-9988-457c-89f4-0c2a325b34d6",
-    "place": "Go Postal",
-    "description": "Ao tentar entregar a caixa no local, fala para entregar a caixa do endereço selecionado, então o jogador tem que tentar caixa por caixa para achar a certa.",
-    "status": "open",
-    "createdAt": "2026-09-16T02:25:04.853Z",
-    "attachments": [
-      {
-        "name": "image.png",
-        "path": "attachments/412fa3d3-9988-457c-89f4-0c2a325b34d6/image.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/412fa3d3-9988-457c-89f4-0c2a325b34d6/image.png",
-        "sha": "2be30e655a862cafcbd92521278e0ce9c764fd34"
-      }
-    ],
-    "author": "Darkin"
-  },
-  {
     "id": "4a2df2e0-ad5e-4f4f-8ae0-d9f5608bf5f0",
     "place": "novas locs outdor anuncio real",
     "description": "vec4(817.76, -1575.28, 37.74, 112.21)\nvec4(800.86, -1722.8, 47.52, 69.06)\nvec4(859.18, -1547.68, 41.56, 35.14)\nvec4(592.78, -1690.71, 44.35, 77.58)",
