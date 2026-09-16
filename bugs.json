@@ -5,7 +5,14 @@
     "description": "O jogador ao ser algemado, não consegue andar, bem como não está funcionando o desalgemar, quando funciona, o jogador também não consegue andar. Não é possível algemar o jogador quando ele está caído no chão, aparece o erro da imagem.",
     "status": "open",
     "createdAt": "2026-09-16T22:42:53.077Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/e7471410-ead1-4908-a0c8-66730addfe56/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/e7471410-ead1-4908-a0c8-66730addfe56/image.png",
+        "sha": "1c51d00c1566a3984894144d0e94153020a8a9df"
+      }
+    ],
     "author": "Darkin"
   },
   {
