@@ -1,49 +1,5 @@
 [
   {
-    "id": "35a941ac-17ad-472c-8585-71577dafd216",
-    "place": "galeria celular",
-    "description": "fui fazer um storys bacanudo do carro, e quando eu abri a galeria para escolher a foto, tava essa zuada de uma foto em cima da outra",
-    "status": "open",
-    "createdAt": "2026-09-17T19:55:43.899Z",
-    "attachments": [
-      {
-        "name": "imagem_2026-09-17_165543322.png",
-        "path": "attachments/35a941ac-17ad-472c-8585-71577dafd216/imagem_2026-09-17_165543322.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/35a941ac-17ad-472c-8585-71577dafd216/imagem_2026-09-17_165543322.png",
-        "sha": "2253993bc485e59c05d6f7bd1f664fbc50e26917"
-      }
-    ],
-    "author": "vitin gordao da xj plus viado ui"
-  },
-  {
-    "id": "7963589c-5aae-4636-9f84-caf2e7513bab",
-    "place": "casas gabz e prodygu",
-    "description": "essa casa esta com a oclusao meio bugada, alguns itens ainda não foram tirados 100$\nvec4(3805.9, 4485.29, 5.37, 260.05)\n\nessa casa esta duplicada o inteiror do gabz e da prodygi, precisa deixar so a do gabz para os roubos \nvec4(3686.3, 4562.77, 25.18, 28.22)\n\nprecisa ou remover ou arrumar as colisões que esta bugadas na casa do farol, não da para andar na casa posi tem varias colisões vec4(3306.35, 5174.07, 19.98, 344.83)",
-    "status": "open",
-    "createdAt": "2026-09-17T19:36:07.379Z",
-    "attachments": [
-      {
-        "name": "Captura de tela 2026-09-17 162921.png",
-        "path": "attachments/7963589c-5aae-4636-9f84-caf2e7513bab/Captura-de-tela-2026-09-17-162921.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/7963589c-5aae-4636-9f84-caf2e7513bab/Captura-de-tela-2026-09-17-162921.png",
-        "sha": "2291005e077c4dcdcd2fef5b6f2a1ddc05dd0189"
-      },
-      {
-        "name": "Captura de tela 2026-09-17 163117.png",
-        "path": "attachments/7963589c-5aae-4636-9f84-caf2e7513bab/Captura-de-tela-2026-09-17-163117.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/7963589c-5aae-4636-9f84-caf2e7513bab/Captura-de-tela-2026-09-17-163117.png",
-        "sha": "5f2ef716187457f63647395898c368843962b04d"
-      },
-      {
-        "name": "Captura de tela 2026-09-17 162928.png",
-        "path": "attachments/7963589c-5aae-4636-9f84-caf2e7513bab/Captura-de-tela-2026-09-17-162928.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/7963589c-5aae-4636-9f84-caf2e7513bab/Captura-de-tela-2026-09-17-162928.png",
-        "sha": "a3c0b51541612b2b8910a15399c42961dcbf2a2c"
-      }
-    ],
-    "author": "vitin gordao da xj plus viado ui"
-  },
-  {
     "id": "e65e5762-af42-43d6-86b0-a988079e3998",
     "place": "trabalho de caminhoneiro",
     "description": "nao sei se eu sou macaco ou algo do tipo, mas eu estou pegando a escavadeira e tentando levantar as caixas do trabalho, mas eu nao estou conseguindo, o palete esta duro no chao, e nao aparece nengum botao para clical quando coloca as garras da empilhadeira em baixo das caixas, caso tenha que clicar algum botao, acho que seria legal pelo menos aparecer qual é, pois eu nao vou poder continuar testando o trabalho pq nao tem como tirar essas desgraças de paletes de caixa do chao, ou pq eu nao sei",
@@ -183,7 +139,8 @@
         "sha": "1bd05fd8817fbf33e8dec2bea212382c5b0ba525"
       }
     ],
-    "author": "Chimbinha"
+    "author": "Chimbinha",
+    "implemented": true
   },
   {
     "id": "c0b24c21-cc46-437e-9b77-2db3428b8fbd",
