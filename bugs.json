@@ -1,5 +1,14 @@
 [
   {
+    "id": "b8744594-9ef7-4cdb-b573-98447882fa52",
+    "place": "Roubo npc em veículos",
+    "description": "Remover o efeitos de npcs pararem o veículo ao mirar arma e consequentemente entregar a chave.",
+    "status": "open",
+    "createdAt": "2026-09-17T03:56:15.036Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "4fce32e1-64ff-42c1-b069-d503e0e72fdc",
     "place": "Prea Mechanic/qbx vehicles",
     "description": "Quando um jogador que não possui a chave do veículo, entra no veículo e ele está aberto e ligado, ele está desligando, isso não é para acontecer.",
