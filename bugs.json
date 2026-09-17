@@ -1,5 +1,14 @@
 [
   {
+    "id": "4fce32e1-64ff-42c1-b069-d503e0e72fdc",
+    "place": "Prea Mechanic/qbx vehicles",
+    "description": "Quando um jogador que não possui a chave do veículo, entra no veículo e ele está aberto e ligado, ele está desligando, isso não é para acontecer.",
+    "status": "open",
+    "createdAt": "2026-09-17T03:55:20.730Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "bcc3087e-3cd7-457e-9741-dc8d296f22d1",
     "place": "Grappler",
     "description": "Ao usar o grappler para capturar veículo de jogador, o está sendo puxado para frente da viatura de forma automática e batendo várias vezes carro com viatura, algumas vezes faz os carros serem arremessados para o alto ou causa destruição dos veículos.",
