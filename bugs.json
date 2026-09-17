@@ -5,7 +5,14 @@
     "description": "a hud do site do bilgeco nao esta preparado para quando fica em modo janela, como mostra na foto, um moi de coisa fica em cima da outra",
     "status": "open",
     "createdAt": "2026-09-17T18:01:56.224Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-09-17_150155575.png",
+        "path": "attachments/00567b18-fdc7-4d34-b066-8c716bbffa20/imagem_2026-09-17_150155575.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/00567b18-fdc7-4d34-b066-8c716bbffa20/imagem_2026-09-17_150155575.png",
+        "sha": "dc836c58fe909feb25abb0a823970f6c8f1d4f92"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
