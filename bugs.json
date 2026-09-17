@@ -1,5 +1,14 @@
 [
   {
+    "id": "35a941ac-17ad-472c-8585-71577dafd216",
+    "place": "galeria celular",
+    "description": "fui fazer um storys bacanudo do carro, e quando eu abri a galeria para escolher a foto, tava essa zuada de uma foto em cima da outra",
+    "status": "open",
+    "createdAt": "2026-09-17T19:55:43.899Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "7963589c-5aae-4636-9f84-caf2e7513bab",
     "place": "casas gabz e prodygu",
     "description": "essa casa esta com a oclusao meio bugada, alguns itens ainda não foram tirados 100$\nvec4(3805.9, 4485.29, 5.37, 260.05)\n\nessa casa esta duplicada o inteiror do gabz e da prodygi, precisa deixar so a do gabz para os roubos \nvec4(3686.3, 4562.77, 25.18, 28.22)\n\nprecisa ou remover ou arrumar as colisões que esta bugadas na casa do farol, não da para andar na casa posi tem varias colisões vec4(3306.35, 5174.07, 19.98, 344.83)",
