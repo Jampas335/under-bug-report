@@ -1,5 +1,14 @@
 [
   {
+    "id": "a00f4d53-c2e1-4f94-a7d9-c54ec1702409",
+    "place": "Modificação restaurantes e mecânica",
+    "description": "Criar um ponto de interação onde os jogadores poderão acessar o cardápio do restaurante, onde irá mostrar combos, produtos avulsos e preços, a ideia é o dono e gerente do restaurante conseguir gerenciar esse cardápio para criar o nome dos combos, editar preços e tudo mais. Também arrumar um forma de a maquininha cobrar pelo produto e não por preço, exemplo, o combo X custa 150 dólares, em vez de colocar 150 dólares na maquinha, seleciona o combo x na opção, devendo conseguir aumentar e diminuir a quantidade de produtos que será cobrado ( + e - para aumentar ou diminuir).\n\nA questão da maquininha também se aplica a mecânica.",
+    "status": "open",
+    "createdAt": "2026-09-17T14:30:12.360Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "89009325-70e8-4451-9d71-c4ff70b1de01",
     "place": "Locais de abastecimento helicópteros",
     "description": "Depois de ter adicionado os props de abastecimento, agora não aparece mais os blips de onde é possível abastecer helicópteros.",
