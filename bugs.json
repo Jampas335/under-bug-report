@@ -1,5 +1,14 @@
 [
   {
+    "id": "490b9c4e-257e-48c0-8f1c-d7990c87eefc",
+    "place": "Taser",
+    "description": "O taser aparecer na munição o número 32767, porém não aumenta e nem diminui, trocar para em vez de munição, ficar a animação de tempo de recarga do taser.",
+    "status": "open",
+    "createdAt": "2026-09-17T00:32:22.448Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "de4b7979-4f1e-41eb-8bb6-43e88891c397",
     "place": "Market",
     "description": "No histórico de vendas, em vez de ficar o nome dos itens, está ficando o nome de spawn.",
