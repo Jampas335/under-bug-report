@@ -1,5 +1,14 @@
 [
   {
+    "id": "c0b24c21-cc46-437e-9b77-2db3428b8fbd",
+    "place": "prea-customs",
+    "description": "quando vai editar o tamanho e largura das rodas, ta vindo umas configs totalmente bugadas, nisso se eu mecho para ajustar, as rodas ficam ultrafinas, nao ta vindo com a config padra equipada, todo o resto das oturas configs ta normal ,menos essa",
+    "status": "open",
+    "createdAt": "2026-09-17T09:30:52.329Z",
+    "attachments": [],
+    "author": "Chimbinha"
+  },
+  {
     "id": "26a65de0-df52-4141-b123-59776d3d8a1b",
     "place": "prea-customs",
     "description": "não ta sendo possivel scrollar a lista das peças equipadas",
