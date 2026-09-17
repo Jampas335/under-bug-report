@@ -5,7 +5,14 @@
     "description": "quando vai editar o tamanho e largura das rodas, ta vindo umas configs totalmente bugadas, nisso se eu mecho para ajustar, as rodas ficam ultrafinas, nao ta vindo com a config padra equipada, todo o resto das oturas configs ta normal ,menos essa",
     "status": "open",
     "createdAt": "2026-09-17T09:30:52.329Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/c0b24c21-cc46-437e-9b77-2db3428b8fbd/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/c0b24c21-cc46-437e-9b77-2db3428b8fbd/image.png",
+        "sha": "ad2ab771ec8c4a1985cdab6d56af27da50702b8d"
+      }
+    ],
     "author": "Chimbinha"
   },
   {
