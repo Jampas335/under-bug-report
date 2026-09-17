@@ -2,7 +2,7 @@
   {
     "id": "490b9c4e-257e-48c0-8f1c-d7990c87eefc",
     "place": "Taser",
-    "description": "O taser aparecer na munição o número 32767, porém não aumenta e nem diminui, trocar para em vez de munição, ficar a animação de tempo de recarga do taser.",
+    "description": "O taser aparecer na munição o número 32767, porém não aumenta e nem diminui, trocar para em vez de munição, ficar a animação de tempo de recarga do taser. Ajustar também que o taser não consiga furar pnéus.",
     "status": "open",
     "createdAt": "2026-09-17T00:32:22.448Z",
     "attachments": [
