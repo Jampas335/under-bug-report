@@ -5,7 +5,14 @@
     "description": "não ta sendo possivel scrollar a lista das peças equipadas",
     "status": "open",
     "createdAt": "2026-09-17T09:29:39.158Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/26a65de0-df52-4141-b123-59776d3d8a1b/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/26a65de0-df52-4141-b123-59776d3d8a1b/image.png",
+        "sha": "664baaaa4233089ced6207052804ee8fe8588f3c"
+      }
+    ],
     "author": "Chimbinha"
   },
   {
