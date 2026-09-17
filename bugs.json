@@ -5,7 +5,14 @@
     "description": "essa area marcado em vermelho, nao esta corretamente centralizado na tela do celular, ele ta mais para a direita",
     "status": "open",
     "createdAt": "2026-09-17T09:44:04.662Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/3266e7a3-71ca-443d-8628-a967a71b7e88/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/3266e7a3-71ca-443d-8628-a967a71b7e88/image.png",
+        "sha": "bbcfff53c8dbcbd6f24e620d60508a6aadb0360d"
+      }
+    ],
     "author": "Chimbinha"
   },
   {
