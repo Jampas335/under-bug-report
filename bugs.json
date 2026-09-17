@@ -1,12 +1,12 @@
 [
   {
-    "id": "e1867305-3597-484b-82e9-7f889741b383",
-    "place": "Função de Conduzir outros jogadores",
-    "description": "quando um jgoador policial interage com o conduzir em outro player,  nao consegue mais soltar ele se forma alguma, coloca para, poder soltar ele apertando X ou esq",
+    "id": "bcc3087e-3cd7-457e-9741-dc8d296f22d1",
+    "place": "Grappler",
+    "description": "Ao usar o grappler para capturar veículo de jogador, o está sendo puxado para frente da viatura de forma automática e batendo várias vezes carro com viatura, algumas vezes faz os carros serem arremessados para o alto ou causa destruição dos veículos.",
     "status": "open",
-    "createdAt": "2026-09-17T02:10:42.391Z",
+    "createdAt": "2026-09-17T03:46:13.264Z",
     "attachments": [],
-    "author": "Chimbinha"
+    "author": "Darkin"
   },
   {
     "id": "490b9c4e-257e-48c0-8f1c-d7990c87eefc",
