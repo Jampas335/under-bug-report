@@ -5,7 +5,14 @@
     "description": "colocar opção e botao de adicioanr emojis, igual tem no de mensagem, para pdoer adicioanr emojis nos posts",
     "status": "open",
     "createdAt": "2026-09-17T09:36:39.656Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/b92058d1-3f54-4300-9b11-35c88af9a023/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/b92058d1-3f54-4300-9b11-35c88af9a023/image.png",
+        "sha": "1bd05fd8817fbf33e8dec2bea212382c5b0ba525"
+      }
+    ],
     "author": "Chimbinha"
   },
   {
