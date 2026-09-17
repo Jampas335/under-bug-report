@@ -1,5 +1,14 @@
 [
   {
+    "id": "dc144d11-1b53-4cfa-9495-2c2f703a3eee",
+    "place": "prea-phone",
+    "description": "criar um debug para mudar o posicionamento que a camera fica quadno ta aberta, no caso a posiçaõ da camera de movimentar a camera, em relação ao prop do celular, quando abre o app decamera, criar um debug igual foi feito com o flash",
+    "status": "open",
+    "createdAt": "2026-09-17T10:00:04.489Z",
+    "attachments": [],
+    "author": "Chimbinha"
+  },
+  {
     "id": "773e7575-10fd-4d1c-bb4b-3a06010b1a48",
     "place": "prea-phone galeria",
     "description": "quando clickar em excluir as imagens, as imagens excluida, pelo menos visualmente do celular, sumir na hora, mesmo que, demora para excluir elas do celular, so pra o jogador ter um  feedback falso instantaneo",
