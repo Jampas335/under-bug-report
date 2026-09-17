@@ -5,7 +5,14 @@
     "description": "quando clickar em excluir as imagens, as imagens excluida, pelo menos visualmente do celular, sumir na hora, mesmo que, demora para excluir elas do celular, so pra o jogador ter um  feedback falso instantaneo",
     "status": "open",
     "createdAt": "2026-09-17T09:47:09.622Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/773e7575-10fd-4d1c-bb4b-3a06010b1a48/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/773e7575-10fd-4d1c-bb4b-3a06010b1a48/image.png",
+        "sha": "d4f97a8c73418c12e7346ea916380dbdfb460d8a"
+      }
+    ],
     "author": "Chimbinha"
   },
   {
