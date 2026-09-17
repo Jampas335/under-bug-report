@@ -1,14 +1,5 @@
 [
   {
-    "id": "e65e5762-af42-43d6-86b0-a988079e3998",
-    "place": "trabalho de caminhoneiro",
-    "description": "nao sei se eu sou macaco ou algo do tipo, mas eu estou pegando a escavadeira e tentando levantar as caixas do trabalho, mas eu nao estou conseguindo, o palete esta duro no chao, e nao aparece nengum botao para clical quando coloca as garras da empilhadeira em baixo das caixas, caso tenha que clicar algum botao, acho que seria legal pelo menos aparecer qual é, pois eu nao vou poder continuar testando o trabalho pq nao tem como tirar essas desgraças de paletes de caixa do chao, ou pq eu nao sei",
-    "status": "open",
-    "createdAt": "2026-09-17T18:12:49.127Z",
-    "attachments": [],
-    "author": "vitin gordao da xj plus viado ui"
-  },
-  {
     "id": "00567b18-fdc7-4d34-b066-8c716bbffa20",
     "place": "trabaio de caminhoneiro no notebook",
     "description": "a hud do site do bilgeco nao esta preparado para quando fica em modo janela, como mostra na foto, um moi de coisa fica em cima da outra",
