@@ -1,5 +1,14 @@
 [
   {
+    "id": "bd023cb3-d333-4e0c-8268-7336879317f9",
+    "place": "Adicionar prop combustível helipontos",
+    "description": "Adicionar o prop de bomba de combustível prop_gas_pump_old3, nas localizações: vec3(1771.505, 3235.109, 41.296), rot = vec3(0.65, 0.08, -166.64), vec4(2129.626, 4784.31, 39.97, 115.27), vec4(-481.731, 5996.068, 30.337, 44.71), vec4(-2187.166, 3171.7, 31.81, 59.77), vec4(-1097.662, -832.09, 36.675, 37.26), vec4(-726.6, -1442.452, 4.001, 50.08), vec4(-1109.654, -2885.419, 12.946, -120.64), vec4(-948.911, -2972.224, 12.945, 60.36), vec4(480.43, -1014.03, 46.822, 178.98), vec4(435.346, -995.821, 47.824, -89.84), vec4(352.046, -582.473, 73.166, -7.83), vec4(584.817, 12.399, 102.234, -90.23), vec4(-451.387, -290.04, 77.168, -66.77), vec4(-345.172, -619.392, 50.255, 179.25), vec4(-304.583, -573.582, 50.255, -0.24).",
+    "status": "open",
+    "createdAt": "2026-09-17T05:12:25.083Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "b8744594-9ef7-4cdb-b573-98447882fa52",
     "place": "Roubo npc em veículos",
     "description": "Remover o efeitos de npcs pararem o veículo ao mirar arma e consequentemente entregar a chave.",
