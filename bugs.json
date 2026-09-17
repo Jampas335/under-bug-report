@@ -1,5 +1,14 @@
 [
   {
+    "id": "b92058d1-3f54-4300-9b11-35c88af9a023",
+    "place": "Prea-p app",
+    "description": "colocar opção e botao de adicioanr emojis, igual tem no de mensagem, para pdoer adicioanr emojis nos posts",
+    "status": "open",
+    "createdAt": "2026-09-17T09:36:39.656Z",
+    "attachments": [],
+    "author": "Chimbinha"
+  },
+  {
     "id": "c0b24c21-cc46-437e-9b77-2db3428b8fbd",
     "place": "prea-customs",
     "description": "quando vai editar o tamanho e largura das rodas, ta vindo umas configs totalmente bugadas, nisso se eu mecho para ajustar, as rodas ficam ultrafinas, nao ta vindo com a config padra equipada, todo o resto das oturas configs ta normal ,menos essa",
