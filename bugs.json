@@ -5,7 +5,14 @@
     "description": "fui fazer um storys bacanudo do carro, e quando eu abri a galeria para escolher a foto, tava essa zuada de uma foto em cima da outra",
     "status": "open",
     "createdAt": "2026-09-17T19:55:43.899Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-09-17_165543322.png",
+        "path": "attachments/35a941ac-17ad-472c-8585-71577dafd216/imagem_2026-09-17_165543322.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/35a941ac-17ad-472c-8585-71577dafd216/imagem_2026-09-17_165543322.png",
+        "sha": "2253993bc485e59c05d6f7bd1f664fbc50e26917"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
