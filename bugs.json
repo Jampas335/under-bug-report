@@ -1,5 +1,14 @@
 [
   {
+    "id": "773e7575-10fd-4d1c-bb4b-3a06010b1a48",
+    "place": "prea-phone galeria",
+    "description": "quando clickar em excluir as imagens, as imagens excluida, pelo menos visualmente do celular, sumir na hora, mesmo que, demora para excluir elas do celular, so pra o jogador ter um  feedback falso instantaneo",
+    "status": "open",
+    "createdAt": "2026-09-17T09:47:09.622Z",
+    "attachments": [],
+    "author": "Chimbinha"
+  },
+  {
     "id": "3266e7a3-71ca-443d-8628-a967a71b7e88",
     "place": "Prea-phone favoritos",
     "description": "essa area marcado em vermelho, nao esta corretamente centralizado na tela do celular, ele ta mais para a direita",
