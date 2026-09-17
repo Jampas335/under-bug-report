@@ -250,22 +250,6 @@
     "implemented": true
   },
   {
-    "id": "afc2385d-a3ae-4340-b35a-16bfe9c69302",
-    "place": "render",
-    "description": "se voce rende alguem que esta em um menu de conversa com o npc, ele buga, eu fico de baixo da terra, e para o outro player, eu fico flicando",
-    "status": "open",
-    "createdAt": "2026-09-13T20:28:50.184Z",
-    "attachments": [
-      {
-        "name": "imagem_2026-09-13_172849166.png",
-        "path": "attachments/afc2385d-a3ae-4340-b35a-16bfe9c69302/imagem_2026-09-13_172849166.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/afc2385d-a3ae-4340-b35a-16bfe9c69302/imagem_2026-09-13_172849166.png",
-        "sha": "6e0cc62894601dba4d7455b2fd520aedf0daae92"
-      }
-    ],
-    "author": "vitin gordao da xj plus viado ui"
-  },
-  {
     "id": "ac902148-167b-4186-8937-cd5dbc3c3881",
     "place": "celular",
     "description": "nao sei se é so o meu celular, mas ele abre os app antes de sumir a tela incial do celular, isso acontence des do incio dos celulres no server, nao sei se é a rota da minha internete, ou que diabo é isso",
