@@ -5,7 +5,14 @@
     "description": "O taser aparecer na munição o número 32767, porém não aumenta e nem diminui, trocar para em vez de munição, ficar a animação de tempo de recarga do taser.",
     "status": "open",
     "createdAt": "2026-09-17T00:32:22.448Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/490b9c4e-257e-48c0-8f1c-d7990c87eefc/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/490b9c4e-257e-48c0-8f1c-d7990c87eefc/image.png",
+        "sha": "ab5757acf0e87e03e4f81f77bf1f7ec2f0324af8"
+      }
+    ],
     "author": "Darkin"
   },
   {
