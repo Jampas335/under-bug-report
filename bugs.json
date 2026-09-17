@@ -1,22 +1,5 @@
 [
   {
-    "id": "56232e2f-edc0-49c1-afe3-4b297c530560",
-    "place": "prea-character",
-    "description": "a mensagem de boas vindas esta em ingles, e, o jogador nao esta nascendo dentro do veiculo, todo o resto esta perfeitametne correto, apenas isso de o jogador nao nascer dentro do veiculo que esta errado",
-    "status": "open",
-    "createdAt": "2026-09-17T02:18:22.023Z",
-    "attachments": [
-      {
-        "name": "image.png",
-        "path": "attachments/56232e2f-edc0-49c1-afe3-4b297c530560/image.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/56232e2f-edc0-49c1-afe3-4b297c530560/image.png",
-        "sha": "10ef25bab5af69369d06ceadac1285ebdac7e437"
-      }
-    ],
-    "author": "Chimbinha",
-    "implemented": true
-  },
-  {
     "id": "e1867305-3597-484b-82e9-7f889741b383",
     "place": "Função de Conduzir outros jogadores",
     "description": "quando um jgoador policial interage com o conduzir em outro player,  nao consegue mais soltar ele se forma alguma, coloca para, poder soltar ele apertando X ou esq",
