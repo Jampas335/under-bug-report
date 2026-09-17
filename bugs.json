@@ -5,7 +5,14 @@
     "description": "No histórico de vendas, em vez de ficar o nome dos itens, está ficando o nome de spawn.",
     "status": "open",
     "createdAt": "2026-09-17T00:27:26.029Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/de4b7979-4f1e-41eb-8bb6-43e88891c397/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/de4b7979-4f1e-41eb-8bb6-43e88891c397/image.png",
+        "sha": "5a0bacd448070134c49e509c610892eaae7bc97e"
+      }
+    ],
     "author": "Darkin"
   },
   {
