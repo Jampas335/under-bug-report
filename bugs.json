@@ -1,5 +1,14 @@
 [
   {
+    "id": "00567b18-fdc7-4d34-b066-8c716bbffa20",
+    "place": "trabaio de caminhoneiro no notebook",
+    "description": "a hud do site do bilgeco nao esta preparado para quando fica em modo janela, como mostra na foto, um moi de coisa fica em cima da outra",
+    "status": "open",
+    "createdAt": "2026-09-17T18:01:56.224Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "4644a546-439a-4cc0-8d7f-cfb20b139ee9",
     "place": "garagens do porto",
     "description": "aquelas primeiras garagens que tu fez, elas ainda estao masinha, precisa arrumar esse mlo, sipa o sol consegue arrumar isso dboa, pq isso deve ser um algo de algum dos lods que foi mechido que nao deveria mecher, as vezes vc modificar algum lod, causa isso msm",
