@@ -56,7 +56,8 @@
     "status": "open",
     "createdAt": "2026-09-17T14:27:49.117Z",
     "attachments": [],
-    "author": "Darkin"
+    "author": "Darkin",
+    "implemented": true
   },
   {
     "id": "83786197-b7b2-4417-9dbb-9c40a6757c21",
