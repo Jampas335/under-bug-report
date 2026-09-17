@@ -5,7 +5,14 @@
     "description": "traduzir tudo para portugues com acentuação e sem mojibake, e corrigr essa seleção de quando t acom o mouse em cimad e algo, ela ta toda cortada e ruim, sem arredondamentos, ruim",
     "status": "open",
     "createdAt": "2026-09-17T09:41:23.915Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/4845a365-31c9-4049-89d2-787ac38b11a0/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/4845a365-31c9-4049-89d2-787ac38b11a0/image.png",
+        "sha": "ed7fd1dbebd3f4b95d18cdfb57552f5c9d30c02f"
+      }
+    ],
     "author": "Chimbinha"
   },
   {
