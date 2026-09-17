@@ -5,7 +5,26 @@
     "description": "essa casa esta com a oclusao meio bugada, alguns itens ainda não foram tirados 100$\nvec4(3805.9, 4485.29, 5.37, 260.05)\n\nessa casa esta duplicada o inteiror do gabz e da prodygi, precisa deixar so a do gabz para os roubos \nvec4(3686.3, 4562.77, 25.18, 28.22)\n\nprecisa ou remover ou arrumar as colisões que esta bugadas na casa do farol, não da para andar na casa posi tem varias colisões vec4(3306.35, 5174.07, 19.98, 344.83)",
     "status": "open",
     "createdAt": "2026-09-17T19:36:07.379Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "Captura de tela 2026-09-17 162921.png",
+        "path": "attachments/7963589c-5aae-4636-9f84-caf2e7513bab/Captura-de-tela-2026-09-17-162921.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/7963589c-5aae-4636-9f84-caf2e7513bab/Captura-de-tela-2026-09-17-162921.png",
+        "sha": "2291005e077c4dcdcd2fef5b6f2a1ddc05dd0189"
+      },
+      {
+        "name": "Captura de tela 2026-09-17 163117.png",
+        "path": "attachments/7963589c-5aae-4636-9f84-caf2e7513bab/Captura-de-tela-2026-09-17-163117.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/7963589c-5aae-4636-9f84-caf2e7513bab/Captura-de-tela-2026-09-17-163117.png",
+        "sha": "5f2ef716187457f63647395898c368843962b04d"
+      },
+      {
+        "name": "Captura de tela 2026-09-17 162928.png",
+        "path": "attachments/7963589c-5aae-4636-9f84-caf2e7513bab/Captura-de-tela-2026-09-17-162928.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/7963589c-5aae-4636-9f84-caf2e7513bab/Captura-de-tela-2026-09-17-162928.png",
+        "sha": "a3c0b51541612b2b8910a15399c42961dcbf2a2c"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
