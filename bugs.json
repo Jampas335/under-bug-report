@@ -1,5 +1,14 @@
 [
   {
+    "id": "4644a546-439a-4cc0-8d7f-cfb20b139ee9",
+    "place": "garagens do porto",
+    "description": "aquelas primeiras garagens que tu fez, elas ainda estao masinha, precisa arrumar esse mlo, sipa o sol consegue arrumar isso dboa, pq isso deve ser um algo de algum dos lods que foi mechido que nao deveria mecher, as vezes vc modificar algum lod, causa isso msm",
+    "status": "open",
+    "createdAt": "2026-09-17T17:51:41.651Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "a00f4d53-c2e1-4f94-a7d9-c54ec1702409",
     "place": "Modificação restaurantes e mecânica",
     "description": "Criar um ponto de interação onde os jogadores poderão acessar o cardápio do restaurante, onde irá mostrar combos, produtos avulsos e preços, a ideia é o dono e gerente do restaurante conseguir gerenciar esse cardápio para criar o nome dos combos, editar preços e tudo mais. Também arrumar um forma de a maquininha cobrar pelo produto e não por preço, exemplo, o combo X custa 150 dólares, em vez de colocar 150 dólares na maquinha, seleciona o combo x na opção, devendo conseguir aumentar e diminuir a quantidade de produtos que será cobrado ( + e - para aumentar ou diminuir).\n\nA questão da maquininha também se aplica a mecânica.",
