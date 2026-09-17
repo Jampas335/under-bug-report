@@ -1,5 +1,14 @@
 [
   {
+    "id": "de4b7979-4f1e-41eb-8bb6-43e88891c397",
+    "place": "Market",
+    "description": "No histórico de vendas, em vez de ficar o nome dos itens, está ficando o nome de spawn.",
+    "status": "open",
+    "createdAt": "2026-09-17T00:27:26.029Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "e7471410-ead1-4908-a0c8-66730addfe56",
     "place": "Algemas",
     "description": "O jogador ao ser algemado, não consegue andar, bem como não está funcionando o desalgemar, quando funciona, o jogador também não consegue andar. Não é possível algemar o jogador quando ele está caído no chão, aparece o erro da imagem.",
