@@ -1,5 +1,14 @@
 [
   {
+    "id": "651ed6d6-fc89-4512-a017-bccc07f4b839",
+    "place": "Grappler",
+    "description": "Grappler ao capturar a roda do veículo, está indo embora o cabo de aço até arrebentar, não tem um limite para puxar o veículo capturado.",
+    "status": "open",
+    "createdAt": "2026-09-17T22:39:49.520Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "00567b18-fdc7-4d34-b066-8c716bbffa20",
     "place": "trabaio de caminhoneiro no notebook",
     "description": "a hud do site do bilgeco nao esta preparado para quando fica em modo janela, como mostra na foto, um moi de coisa fica em cima da outra",
