@@ -1,5 +1,14 @@
 [
   {
+    "id": "89009325-70e8-4451-9d71-c4ff70b1de01",
+    "place": "Locais de abastecimento helicópteros",
+    "description": "Depois de ter adicionado os props de abastecimento, agora não aparece mais os blips de onde é possível abastecer helicópteros.",
+    "status": "open",
+    "createdAt": "2026-09-17T14:27:49.117Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "83786197-b7b2-4417-9dbb-9c40a6757c21",
     "place": "Veículo de spawn apartamentos",
     "description": "Atualmente aparece o botão de pedir uma parada, nao sei se era para aparecer, quando aperta F, o jogador começa a descer do veículo e volta para dentro, acho que seria bom desativar a descida enquando o veículo não parar, pois quando para descer automatico. Caso solicite a parada, seria possível se descer se for o caso. Quando o veículo chega no destino, ele fica ligado e destrancado, possibilitando o jogador pegar e sair com ele.",
