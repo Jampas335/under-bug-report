@@ -1,5 +1,14 @@
 [
   {
+    "id": "6337041d-d683-40b8-8602-f6a8f51eea39",
+    "place": "Colisão invisivel",
+    "description": "vec4(747.85, 2545.28, 75.06, 75.04)",
+    "status": "open",
+    "createdAt": "2026-09-18T22:34:25.184Z",
+    "attachments": [],
+    "author": "Chimbinha"
+  },
+  {
     "id": "00567b18-fdc7-4d34-b066-8c716bbffa20",
     "place": "trabaio de caminhoneiro no notebook",
     "description": "a hud do site do bilgeco nao esta preparado para quando fica em modo janela, como mostra na foto, um moi de coisa fica em cima da outra",
