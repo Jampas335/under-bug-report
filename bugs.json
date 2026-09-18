@@ -1,249 +1,12 @@
 [
   {
-    "id": "6337041d-d683-40b8-8602-f6a8f51eea39",
-    "place": "Colisão invisivel",
-    "description": "vec4(747.85, 2545.28, 75.06, 75.04)",
+    "id": "e2a73055-93da-4d4c-b5e5-5dc4a705fb00",
+    "place": "boosting bicicleta",
+    "description": "Ao realizar a entrega da bicicleta, o processo aparentemente foi concluído corretamente:\no jogador recebeu o dinheiro;\na bicicleta desapareceu;\no NPC também desapareceu.\nPorém, logo após a entrega, apareceu uma mensagem informando que a missão/entrega havia sido cancelada.\nAlém disso, o jogador recebeu apenas o pagamento em dinheiro, mas não recebeu a criptomoeda referente à entrega.\nVerificar o motivo de a missão estar sendo marcada como cancelada mesmo após a entrega ser concluída e garantir que todos os pagamentos configurados, incluindo dinheiro e criptomoeda, sejam entregues corretamente ao jogador.",
     "status": "open",
-    "createdAt": "2026-09-18T22:34:25.184Z",
+    "createdAt": "2026-09-18T23:03:57.252Z",
     "attachments": [],
-    "author": "Chimbinha"
-  },
-  {
-    "id": "00567b18-fdc7-4d34-b066-8c716bbffa20",
-    "place": "trabaio de caminhoneiro no notebook",
-    "description": "a hud do site do bilgeco nao esta preparado para quando fica em modo janela, como mostra na foto, um moi de coisa fica em cima da outra",
-    "status": "open",
-    "createdAt": "2026-09-17T18:01:56.224Z",
-    "attachments": [
-      {
-        "name": "imagem_2026-09-17_150155575.png",
-        "path": "attachments/00567b18-fdc7-4d34-b066-8c716bbffa20/imagem_2026-09-17_150155575.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/00567b18-fdc7-4d34-b066-8c716bbffa20/imagem_2026-09-17_150155575.png",
-        "sha": "dc836c58fe909feb25abb0a823970f6c8f1d4f92"
-      }
-    ],
-    "author": "vitin gordao da xj plus viado ui",
-    "implemented": true
-  },
-  {
-    "id": "4644a546-439a-4cc0-8d7f-cfb20b139ee9",
-    "place": "garagens do porto",
-    "description": "aquelas primeiras garagens que tu fez, elas ainda estao masinha, precisa arrumar esse mlo, sipa o sol consegue arrumar isso dboa, pq isso deve ser um algo de algum dos lods que foi mechido que nao deveria mecher, as vezes vc modificar algum lod, causa isso msm",
-    "status": "open",
-    "createdAt": "2026-09-17T17:51:41.651Z",
-    "attachments": [
-      {
-        "name": "imagem_2026-09-17_145023609.png",
-        "path": "attachments/4644a546-439a-4cc0-8d7f-cfb20b139ee9/imagem_2026-09-17_145023609.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/4644a546-439a-4cc0-8d7f-cfb20b139ee9/imagem_2026-09-17_145023609.png",
-        "sha": "a374ada7383159076c69721bd7b35ae3244c75f5"
-      }
-    ],
-    "author": "vitin gordao da xj plus viado ui"
-  },
-  {
-    "id": "a00f4d53-c2e1-4f94-a7d9-c54ec1702409",
-    "place": "Modificação restaurantes e mecânica",
-    "description": "Criar um ponto de interação onde os jogadores poderão acessar o cardápio do restaurante, onde irá mostrar combos, produtos avulsos e preços, a ideia é o dono e gerente do restaurante conseguir gerenciar esse cardápio para criar o nome dos combos, editar preços e tudo mais. Também arrumar um forma de a maquininha cobrar pelo produto e não por preço, exemplo, o combo X custa 150 dólares, em vez de colocar 150 dólares na maquinha, seleciona o combo x na opção, devendo conseguir aumentar e diminuir a quantidade de produtos que será cobrado ( + e - para aumentar ou diminuir).\n\nA questão da maquininha também se aplica a mecânica.",
-    "status": "open",
-    "createdAt": "2026-09-17T14:30:12.360Z",
-    "attachments": [],
-    "author": "Darkin"
-  },
-  {
-    "id": "89009325-70e8-4451-9d71-c4ff70b1de01",
-    "place": "Locais de abastecimento helicópteros",
-    "description": "Depois de ter adicionado os props de abastecimento, agora não aparece mais os blips de onde é possível abastecer helicópteros.",
-    "status": "open",
-    "createdAt": "2026-09-17T14:27:49.117Z",
-    "attachments": [],
-    "author": "Darkin",
-    "implemented": true
-  },
-  {
-    "id": "83786197-b7b2-4417-9dbb-9c40a6757c21",
-    "place": "Veículo de spawn apartamentos",
-    "description": "Atualmente aparece o botão de pedir uma parada, nao sei se era para aparecer, quando aperta F, o jogador começa a descer do veículo e volta para dentro, acho que seria bom desativar a descida enquando o veículo não parar, pois quando para descer automatico. Caso solicite a parada, seria possível se descer se for o caso. Quando o veículo chega no destino, ele fica ligado e destrancado, possibilitando o jogador pegar e sair com ele.",
-    "status": "open",
-    "createdAt": "2026-09-17T14:25:32.404Z",
-    "attachments": [],
-    "author": "Darkin",
-    "implemented": true
-  },
-  {
-    "id": "773e7575-10fd-4d1c-bb4b-3a06010b1a48",
-    "place": "prea-phone galeria",
-    "description": "quando clickar em excluir as imagens, as imagens excluida, pelo menos visualmente do celular, sumir na hora, mesmo que, demora para excluir elas do celular, so pra o jogador ter um  feedback falso instantaneo",
-    "status": "open",
-    "createdAt": "2026-09-17T09:47:09.622Z",
-    "attachments": [
-      {
-        "name": "image.png",
-        "path": "attachments/773e7575-10fd-4d1c-bb4b-3a06010b1a48/image.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/773e7575-10fd-4d1c-bb4b-3a06010b1a48/image.png",
-        "sha": "d4f97a8c73418c12e7346ea916380dbdfb460d8a"
-      }
-    ],
-    "author": "Chimbinha",
-    "implemented": true
-  },
-  {
-    "id": "3266e7a3-71ca-443d-8628-a967a71b7e88",
-    "place": "Prea-phone favoritos",
-    "description": "essa area marcado em vermelho, nao esta corretamente centralizado na tela do celular, ele ta mais para a direita",
-    "status": "open",
-    "createdAt": "2026-09-17T09:44:04.662Z",
-    "attachments": [
-      {
-        "name": "image.png",
-        "path": "attachments/3266e7a3-71ca-443d-8628-a967a71b7e88/image.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/3266e7a3-71ca-443d-8628-a967a71b7e88/image.png",
-        "sha": "bbcfff53c8dbcbd6f24e620d60508a6aadb0360d"
-      }
-    ],
-    "author": "Chimbinha",
-    "implemented": true
-  },
-  {
-    "id": "4845a365-31c9-4049-89d2-787ac38b11a0",
-    "place": "prea-phone historico de chamdas",
-    "description": "traduzir tudo para portugues com acentuação e sem mojibake, e corrigr essa seleção de quando t acom o mouse em cimad e algo, ela ta toda cortada e ruim, sem arredondamentos, ruim",
-    "status": "open",
-    "createdAt": "2026-09-17T09:41:23.915Z",
-    "attachments": [
-      {
-        "name": "image.png",
-        "path": "attachments/4845a365-31c9-4049-89d2-787ac38b11a0/image.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/4845a365-31c9-4049-89d2-787ac38b11a0/image.png",
-        "sha": "ed7fd1dbebd3f4b95d18cdfb57552f5c9d30c02f"
-      }
-    ],
-    "author": "Chimbinha",
-    "implemented": true
-  },
-  {
-    "id": "b92058d1-3f54-4300-9b11-35c88af9a023",
-    "place": "Prea-p app",
-    "description": "colocar opção e botao de adicioanr emojis, igual tem no de mensagem, para pdoer adicioanr emojis nos posts",
-    "status": "open",
-    "createdAt": "2026-09-17T09:36:39.656Z",
-    "attachments": [
-      {
-        "name": "image.png",
-        "path": "attachments/b92058d1-3f54-4300-9b11-35c88af9a023/image.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/b92058d1-3f54-4300-9b11-35c88af9a023/image.png",
-        "sha": "1bd05fd8817fbf33e8dec2bea212382c5b0ba525"
-      }
-    ],
-    "author": "Chimbinha",
-    "implemented": true
-  },
-  {
-    "id": "c0b24c21-cc46-437e-9b77-2db3428b8fbd",
-    "place": "prea-customs",
-    "description": "quando vai editar o tamanho e largura das rodas, ta vindo umas configs totalmente bugadas, nisso se eu mecho para ajustar, as rodas ficam ultrafinas, nao ta vindo com a config padra equipada, todo o resto das oturas configs ta normal ,menos essa",
-    "status": "open",
-    "createdAt": "2026-09-17T09:30:52.329Z",
-    "attachments": [
-      {
-        "name": "image.png",
-        "path": "attachments/c0b24c21-cc46-437e-9b77-2db3428b8fbd/image.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/c0b24c21-cc46-437e-9b77-2db3428b8fbd/image.png",
-        "sha": "ad2ab771ec8c4a1985cdab6d56af27da50702b8d"
-      }
-    ],
-    "author": "Chimbinha",
-    "implemented": true
-  },
-  {
-    "id": "26a65de0-df52-4141-b123-59776d3d8a1b",
-    "place": "prea-customs",
-    "description": "não ta sendo possivel scrollar a lista das peças equipadas",
-    "status": "open",
-    "createdAt": "2026-09-17T09:29:39.158Z",
-    "attachments": [
-      {
-        "name": "image.png",
-        "path": "attachments/26a65de0-df52-4141-b123-59776d3d8a1b/image.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/26a65de0-df52-4141-b123-59776d3d8a1b/image.png",
-        "sha": "664baaaa4233089ced6207052804ee8fe8588f3c"
-      }
-    ],
-    "author": "Chimbinha",
-    "implemented": true
-  },
-  {
-    "id": "bd023cb3-d333-4e0c-8268-7336879317f9",
-    "place": "Adicionar prop combustível helipontos",
-    "description": "Adicionar o prop de bomba de combustível prop_gas_pump_old3, nas localizações: vec3(1771.505, 3235.109, 41.296), rot = vec3(0.65, 0.08, -166.64), vec4(2129.626, 4784.31, 39.97, 115.27), vec4(-481.731, 5996.068, 30.337, 44.71), vec4(-2187.166, 3171.7, 31.81, 59.77), vec4(-1097.662, -832.09, 36.675, 37.26), vec4(-726.6, -1442.452, 4.001, 50.08), vec4(-1109.654, -2885.419, 12.946, -120.64), vec4(-948.911, -2972.224, 12.945, 60.36), vec4(480.43, -1014.03, 46.822, 178.98), vec4(435.346, -995.821, 47.824, -89.84), vec4(352.046, -582.473, 73.166, -7.83), vec4(584.817, 12.399, 102.234, -90.23), vec4(-451.387, -290.04, 77.168, -66.77), vec4(-345.172, -619.392, 50.255, 179.25), vec4(-304.583, -573.582, 50.255, -0.24).",
-    "status": "open",
-    "createdAt": "2026-09-17T05:12:25.083Z",
-    "attachments": [],
-    "author": "Darkin",
-    "implemented": true
-  },
-  {
-    "id": "b8744594-9ef7-4cdb-b573-98447882fa52",
-    "place": "Roubo npc em veículos",
-    "description": "Remover o efeitos de npcs pararem o veículo ao mirar arma e consequentemente entregar a chave.",
-    "status": "open",
-    "createdAt": "2026-09-17T03:56:15.036Z",
-    "attachments": [],
-    "author": "Darkin",
-    "implemented": true
-  },
-  {
-    "id": "4fce32e1-64ff-42c1-b069-d503e0e72fdc",
-    "place": "Prea Mechanic/qbx vehicles",
-    "description": "Quando um jogador que não possui a chave do veículo, entra no veículo e ele está aberto e ligado, ele está desligando, isso não é para acontecer.",
-    "status": "open",
-    "createdAt": "2026-09-17T03:55:20.730Z",
-    "attachments": [],
-    "author": "Darkin",
-    "implemented": true
-  },
-  {
-    "id": "bcc3087e-3cd7-457e-9741-dc8d296f22d1",
-    "place": "Grappler",
-    "description": "Ao usar o grappler para capturar veículo de jogador, o está sendo puxado para frente da viatura de forma automática e batendo várias vezes carro com viatura, algumas vezes faz os carros serem arremessados para o alto ou causa destruição dos veículos.",
-    "status": "open",
-    "createdAt": "2026-09-17T03:46:13.264Z",
-    "attachments": [],
-    "author": "Darkin",
-    "implemented": true
-  },
-  {
-    "id": "490b9c4e-257e-48c0-8f1c-d7990c87eefc",
-    "place": "Taser",
-    "description": "O taser aparecer na munição o número 32767, porém não aumenta e nem diminui, trocar para em vez de munição, ficar a animação de tempo de recarga do taser. Ajustar também que o taser não consiga furar pnéus.",
-    "status": "open",
-    "createdAt": "2026-09-17T00:32:22.448Z",
-    "attachments": [
-      {
-        "name": "image.png",
-        "path": "attachments/490b9c4e-257e-48c0-8f1c-d7990c87eefc/image.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/490b9c4e-257e-48c0-8f1c-d7990c87eefc/image.png",
-        "sha": "ab5757acf0e87e03e4f81f77bf1f7ec2f0324af8"
-      }
-    ],
-    "author": "Darkin"
-  },
-  {
-    "id": "de4b7979-4f1e-41eb-8bb6-43e88891c397",
-    "place": "Market",
-    "description": "No histórico de vendas, em vez de ficar o nome dos itens, está ficando o nome de spawn.",
-    "status": "open",
-    "createdAt": "2026-09-17T00:27:26.029Z",
-    "attachments": [
-      {
-        "name": "image.png",
-        "path": "attachments/de4b7979-4f1e-41eb-8bb6-43e88891c397/image.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/de4b7979-4f1e-41eb-8bb6-43e88891c397/image.png",
-        "sha": "5a0bacd448070134c49e509c610892eaae7bc97e"
-      }
-    ],
-    "author": "Darkin",
-    "implemented": true
+    "author": "judsu"
   },
   {
     "id": "e7471410-ead1-4908-a0c8-66730addfe56",
@@ -259,8 +22,7 @@
         "sha": "1c51d00c1566a3984894144d0e94153020a8a9df"
       }
     ],
-    "author": "Darkin",
-    "implemented": true
+    "author": "Darkin"
   },
   {
     "id": "98618360-1ac0-4f38-b32c-4d63d53b2b99",
@@ -338,14 +100,13 @@
     "status": "open",
     "createdAt": "2026-09-14T23:52:44.429Z",
     "attachments": [],
-    "author": "Darkin",
-    "implemented": true
+    "author": "Darkin"
   },
   {
     "id": "33891aaf-4edd-4ca1-8be3-1b72da77214f",
     "place": "Prisão",
     "description": "A camiseta da prisão aparentemente sumiu o modelo ou foi substituída, está saindo um camiseta de time.",
-    "status": "done",
+    "status": "open",
     "createdAt": "2026-09-14T23:37:24.224Z",
     "attachments": [
       {
@@ -355,8 +116,7 @@
         "sha": "06c01865314de5cfc76cfd63c949a3443648f5e2"
       }
     ],
-    "author": "Darkin",
-    "implemented": false
+    "author": "Darkin"
   },
   {
     "id": "4b57e388-f95a-422e-971c-6411adb60697",
@@ -423,6 +183,38 @@
     "implemented": true
   },
   {
+    "id": "afc2385d-a3ae-4340-b35a-16bfe9c69302",
+    "place": "render",
+    "description": "se voce rende alguem que esta em um menu de conversa com o npc, ele buga, eu fico de baixo da terra, e para o outro player, eu fico flicando",
+    "status": "open",
+    "createdAt": "2026-09-13T20:28:50.184Z",
+    "attachments": [
+      {
+        "name": "imagem_2026-09-13_172849166.png",
+        "path": "attachments/afc2385d-a3ae-4340-b35a-16bfe9c69302/imagem_2026-09-13_172849166.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/afc2385d-a3ae-4340-b35a-16bfe9c69302/imagem_2026-09-13_172849166.png",
+        "sha": "6e0cc62894601dba4d7455b2fd520aedf0daae92"
+      }
+    ],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
+    "id": "ac902148-167b-4186-8937-cd5dbc3c3881",
+    "place": "celular",
+    "description": "nao sei se é so o meu celular, mas ele abre os app antes de sumir a tela incial do celular, isso acontence des do incio dos celulres no server, nao sei se é a rota da minha internete, ou que diabo é isso",
+    "status": "open",
+    "createdAt": "2026-09-13T20:16:10.382Z",
+    "attachments": [
+      {
+        "name": "imagem_2026-09-13_171608537.png",
+        "path": "attachments/ac902148-167b-4186-8937-cd5dbc3c3881/imagem_2026-09-13_171608537.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/ac902148-167b-4186-8937-cd5dbc3c3881/imagem_2026-09-13_171608537.png",
+        "sha": "17dc0d7c0e10e29c4188957a737e0d8d5edd1153"
+      }
+    ],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "b3077fff-9b49-48ab-a23f-b2e2b2e285d2",
     "place": "dançarino no bahamas",
     "description": "entrei em serviço e fui tentar dançar, esta aparecendo o (E) interagir normar, mas depois de eu escolher uma dança, ele aparece esse erro e nao da pra dacar",
@@ -438,6 +230,15 @@
     ],
     "author": "vitin gordao da xj plus viado ui",
     "implemented": true
+  },
+  {
+    "id": "dcfd6788-c233-44f7-b923-8f89ff7549c4",
+    "place": "voice do server",
+    "description": "sempre acontece isso comigo, nao sei se é bug do server ou meu pessoal, mas tem vezes que eu fico falando msm nao estando com o botao de falar clicado, ele fica falando infito, so arruma quando eu entro e saio do server",
+    "status": "open",
+    "createdAt": "2026-09-13T20:08:51.591Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
   },
   {
     "id": "bf4ebf3a-8cd4-492d-a9d5-9ccc404d7b8e",
@@ -497,6 +298,15 @@
       }
     ],
     "author": "Darkin"
+  },
+  {
+    "id": "18df73c1-543b-4f6f-ae24-70a28b81ad67",
+    "place": "17movcharacter",
+    "description": "quadno se cria um personagem novo, ele ta dando a opção de apenas ir para o lombamk center, sendo q, esse apartametno nem existe mais, fazendo o jgoador limbar caso spawne nele",
+    "status": "open",
+    "createdAt": "2026-09-10T10:44:45.086Z",
+    "attachments": [],
+    "author": "Chimbinha"
   },
   {
     "id": "59cc7637-30e4-432a-8cc2-3bc3afd8345e",
