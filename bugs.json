@@ -1,5 +1,14 @@
 [
   {
+    "id": "74911494-062e-436d-aac4-2245c5994737",
+    "place": "Médico",
+    "description": "O jogador ao morrer, não está contando o tempo para que possa ser reanimado por outro jogador, através de minigame, está contando direto os 2 minutos para ir ao hospital.",
+    "status": "open",
+    "createdAt": "2026-09-19T06:41:20.831Z",
+    "attachments": [],
+    "author": "Darkin"
+  },
+  {
     "id": "e2a73055-93da-4d4c-b5e5-5dc4a705fb00",
     "place": "boosting bicicleta",
     "description": "Ao realizar a entrega da bicicleta, o processo aparentemente foi concluído corretamente:\no jogador recebeu o dinheiro;\na bicicleta desapareceu;\no NPC também desapareceu.\nPorém, logo após a entrega, apareceu uma mensagem informando que a missão/entrega havia sido cancelada.\nAlém disso, o jogador recebeu apenas o pagamento em dinheiro, mas não recebeu a criptomoeda referente à entrega.\nVerificar o motivo de a missão estar sendo marcada como cancelada mesmo após a entrega ser concluída e garantir que todos os pagamentos configurados, incluindo dinheiro e criptomoeda, sejam entregues corretamente ao jogador.",
