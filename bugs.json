@@ -1,5 +1,14 @@
 [
   {
+    "id": "56c3e987-238a-44f6-ba33-4c94f96f7f6e",
+    "place": "boosting",
+    "description": "Não consigo coletar a recompensa das caixas, aparace com esta mensagem mensagem \"O responsável ainda não confirmou a entrega. Tente novamente\"",
+    "status": "open",
+    "createdAt": "2026-09-20T18:26:50.089Z",
+    "attachments": [],
+    "author": "judsu"
+  },
+  {
     "id": "74911494-062e-436d-aac4-2245c5994737",
     "place": "Médico",
     "description": "O jogador ao morrer, não está contando o tempo para que possa ser reanimado por outro jogador, através de minigame, está contando direto os 2 minutos para ir ao hospital.",
@@ -22,8 +31,7 @@
         "sha": "905a2a45d5d7f8c964803b94dd185cd593aed6b5"
       }
     ],
-    "author": "judsu",
-    "implemented": true
+    "author": "judsu"
   },
   {
     "id": "e7471410-ead1-4908-a0c8-66730addfe56",
@@ -39,8 +47,7 @@
         "sha": "1c51d00c1566a3984894144d0e94153020a8a9df"
       }
     ],
-    "author": "Darkin",
-    "implemented": true
+    "author": "Darkin"
   },
   {
     "id": "98618360-1ac0-4f38-b32c-4d63d53b2b99",
