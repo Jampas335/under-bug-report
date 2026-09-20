@@ -5,7 +5,20 @@
     "description": "Não consigo coletar a recompensa das caixas, aparace com esta mensagem mensagem \"O responsável ainda não confirmou a entrega. Tente novamente\"",
     "status": "open",
     "createdAt": "2026-09-20T18:26:50.089Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "Captura de tela 2026-09-20 152220.png",
+        "path": "attachments/56c3e987-238a-44f6-ba33-4c94f96f7f6e/Captura-de-tela-2026-09-20-152220.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/56c3e987-238a-44f6-ba33-4c94f96f7f6e/Captura-de-tela-2026-09-20-152220.png",
+        "sha": "bb383a2c940eabfa706cba9e82587f2ba99bf5b2"
+      },
+      {
+        "name": "Captura de tela 2026-09-20 152240.png",
+        "path": "attachments/56c3e987-238a-44f6-ba33-4c94f96f7f6e/Captura-de-tela-2026-09-20-152240.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/56c3e987-238a-44f6-ba33-4c94f96f7f6e/Captura-de-tela-2026-09-20-152240.png",
+        "sha": "467c226ea5f96fe570458db6d247709acf0b3032"
+      }
+    ],
     "author": "judsu"
   },
   {
