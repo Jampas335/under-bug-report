@@ -5,7 +5,20 @@
     "description": "precisa arrumar a distancia de ate onde a camera do modo livre de decoraçao pode ir, pois do jeito que esta hoje, eu consigo ver oq acontence na casa dos outros, isso é paia pq bem provavel que os cocudo vao abusar disso, seria melhor colocar um limite dentro dos rooms do mlo, o sol deve conseguir fazer isso.",
     "status": "open",
     "createdAt": "2026-09-21T19:36:55.725Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-09-21_163643034.png",
+        "path": "attachments/d399801c-d42d-4865-b1e1-3fb318ff90e5/imagem_2026-09-21_163643034.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/d399801c-d42d-4865-b1e1-3fb318ff90e5/imagem_2026-09-21_163643034.png",
+        "sha": "7025956d108e8ff1d3a3fbd2b1c95257f8c714ff"
+      },
+      {
+        "name": "download (2).jpg",
+        "path": "attachments/d399801c-d42d-4865-b1e1-3fb318ff90e5/download--2-.jpg",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/d399801c-d42d-4865-b1e1-3fb318ff90e5/download--2-.jpg",
+        "sha": "e6fb3fc9c77241c82831acae12f336753ebc9b2d"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
