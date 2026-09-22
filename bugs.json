@@ -1,8 +1,8 @@
 [
   {
     "id": "709c725b-6d12-45f8-92a1-7eb78d1113b0",
-    "place": "Mesa madeireira e Mineração",
-    "description": "Quando coloco 6 tronco na mesa da madeireira, e coloco 5 na fila para fazer tábuas, sobra somente 1, mas a mesa reconhece que tem 2 no armazenamento ainda, porém se eu coloco 1/2 do que reconhece, ele entra na fila e some os 2 que a mesa estava reconhecendo. Mesa de limpeza de minério está com o mesmo problema, 1 minério está sendo reconhecido como 2, dando para utilizar somente 1 para fabricação e depois zera a quantidade reconhecida.",
+    "place": "Mesa madeireira, Mineração e Forja",
+    "description": "Quando coloco 6 tronco na mesa da madeireira, e coloco 5 na fila para fazer tábuas, sobra somente 1, mas a mesa reconhece que tem 2 no armazenamento ainda, porém se eu coloco 1/2 do que reconhece, ele entra na fila e some os 2 que a mesa estava reconhecendo. Mesa de limpeza de minério está com o mesmo problema, 1 minério está sendo reconhecido como 2, dando para utilizar somente 1 para fabricação e depois zera a quantidade reconhecida. Forja está Reconhecendo o dobro de alguns itens, na imagem anexo mostra que tem 6 fragmento de zinco no armazenamento, porém está reconhecendo 12 na imagem do craft.",
     "status": "open",
     "createdAt": "2026-09-22T22:57:41.643Z",
     "attachments": [
