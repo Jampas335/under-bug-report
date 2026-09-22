@@ -5,7 +5,14 @@
     "description": "Quando coloco 6 tronco na mesa da madeireira, e coloco 5 na fila para fazer tábuas, sobra somente 1, mas a mesa reconhece que tem 2 no armazenamento ainda, porém se eu coloco 1/2 do que reconhece, ele entra na fila e some os 2 que a mesa estava reconhecendo.",
     "status": "open",
     "createdAt": "2026-09-22T22:57:41.643Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/709c725b-6d12-45f8-92a1-7eb78d1113b0/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/709c725b-6d12-45f8-92a1-7eb78d1113b0/image.png",
+        "sha": "783237e78e55a94d8307834bbe45ef3f279592f6"
+      }
+    ],
     "author": "Darkin"
   },
   {
