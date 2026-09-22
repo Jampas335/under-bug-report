@@ -5,7 +5,14 @@
     "description": "Ajusta o posicionamento do Motossera nas costas, está costando a bunda do caba.",
     "status": "open",
     "createdAt": "2026-09-22T22:48:59.489Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/611e6457-e813-415a-a075-8db6e50854a8/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/611e6457-e813-415a-a075-8db6e50854a8/image.png",
+        "sha": "7a535e890451c1eae19871cce1efdbd9f738dc8f"
+      }
+    ],
     "author": "Darkin"
   },
   {
