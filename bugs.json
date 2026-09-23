@@ -5,7 +5,14 @@
     "description": "Refazer o balançeamento dos pagamentos realizados no serviço, valor está muito alto, pagando aproximadamente 1.845 por 7 minutos de serviço.",
     "status": "open",
     "createdAt": "2026-09-23T00:44:30.297Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/b05cc643-02a2-4440-beb2-0410514ad3a9/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/b05cc643-02a2-4440-beb2-0410514ad3a9/image.png",
+        "sha": "dfb2c89c430120b5460d7fd253f14d1812dc5cd7"
+      }
+    ],
     "author": "Darkin"
   },
   {
