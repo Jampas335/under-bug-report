@@ -1,5 +1,14 @@
 [
   {
+    "id": "2f0c5e02-9c6d-4dac-9d91-e4176fc3a42b",
+    "place": "terminal do hospital",
+    "description": "no termial do hospital, era para ter uma tv atras da UI que mostra os proximos da fila, mas ela so aparece quando voce esta fora do mlo, quando voce entra, o prop da tv desaparece, e so fica a hud da UI",
+    "status": "open",
+    "createdAt": "2026-10-01T19:13:02.559Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "d70eaef3-42d2-43ec-b779-ec94da90a25a",
     "place": "mosley autos",
     "description": "tem alguns carros um pouco dentro da terra",
