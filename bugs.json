@@ -5,7 +5,14 @@
     "description": "no termial do hospital, era para ter uma tv atras da UI que mostra os proximos da fila, mas ela so aparece quando voce esta fora do mlo, quando voce entra, o prop da tv desaparece, e so fica a hud da UI",
     "status": "open",
     "createdAt": "2026-10-01T19:13:02.559Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "Captura de tela 2026-10-01 155922.png",
+        "path": "attachments/2f0c5e02-9c6d-4dac-9d91-e4176fc3a42b/Captura-de-tela-2026-10-01-155922.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/2f0c5e02-9c6d-4dac-9d91-e4176fc3a42b/Captura-de-tela-2026-10-01-155922.png",
+        "sha": "40ec7830f30a332e2503032628cb8e89355cbd4c"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
