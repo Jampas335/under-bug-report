@@ -5,7 +5,14 @@
     "description": "na galeria do P, as fotos estao ficando uma por cima da outra, sem dar espaço entre elas.",
     "status": "open",
     "createdAt": "2026-10-01T19:10:36.162Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-10-01_161035488.png",
+        "path": "attachments/98d45e2d-b372-4a8a-8078-7b71e15a6d24/imagem_2026-10-01_161035488.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/98d45e2d-b372-4a8a-8078-7b71e15a6d24/imagem_2026-10-01_161035488.png",
+        "sha": "225f98c747159dcb37cdedac3234853e296892c3"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
