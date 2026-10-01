@@ -5,7 +5,14 @@
     "description": "tem alguns carros um pouco dentro da terra",
     "status": "open",
     "createdAt": "2026-10-01T19:11:39.158Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "Captura de tela 2026-10-01 160110.png",
+        "path": "attachments/d70eaef3-42d2-43ec-b779-ec94da90a25a/Captura-de-tela-2026-10-01-160110.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/d70eaef3-42d2-43ec-b779-ec94da90a25a/Captura-de-tela-2026-10-01-160110.png",
+        "sha": "f10750e14dc2a5d4a4a9887ab2719afa99dafc5d"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
