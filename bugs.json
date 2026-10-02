@@ -1,51 +1,12 @@
 [
   {
-    "id": "2f0c5e02-9c6d-4dac-9d91-e4176fc3a42b",
-    "place": "terminal do hospital",
-    "description": "no termial do hospital, era para ter uma tv atras da UI que mostra os proximos da fila, mas ela so aparece quando voce esta fora do mlo, quando voce entra, o prop da tv desaparece, e so fica a hud da UI",
+    "id": "cc50a645-d45f-4ec6-be51-e80ec5e91407",
+    "place": "Onibus",
+    "description": "quando eu entrei no server, o onibus bugou e nao sai do lugar mesmo depois de o personagem descer dele",
     "status": "open",
-    "createdAt": "2026-10-01T19:13:02.559Z",
-    "attachments": [
-      {
-        "name": "Captura de tela 2026-10-01 155922.png",
-        "path": "attachments/2f0c5e02-9c6d-4dac-9d91-e4176fc3a42b/Captura-de-tela-2026-10-01-155922.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/2f0c5e02-9c6d-4dac-9d91-e4176fc3a42b/Captura-de-tela-2026-10-01-155922.png",
-        "sha": "40ec7830f30a332e2503032628cb8e89355cbd4c"
-      }
-    ],
-    "author": "vitin gordao da xj plus viado ui"
-  },
-  {
-    "id": "d70eaef3-42d2-43ec-b779-ec94da90a25a",
-    "place": "mosley autos",
-    "description": "tem alguns carros um pouco dentro da terra",
-    "status": "open",
-    "createdAt": "2026-10-01T19:11:39.158Z",
-    "attachments": [
-      {
-        "name": "Captura de tela 2026-10-01 160110.png",
-        "path": "attachments/d70eaef3-42d2-43ec-b779-ec94da90a25a/Captura-de-tela-2026-10-01-160110.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/d70eaef3-42d2-43ec-b779-ec94da90a25a/Captura-de-tela-2026-10-01-160110.png",
-        "sha": "f10750e14dc2a5d4a4a9887ab2719afa99dafc5d"
-      }
-    ],
-    "author": "vitin gordao da xj plus viado ui"
-  },
-  {
-    "id": "98d45e2d-b372-4a8a-8078-7b71e15a6d24",
-    "place": "galeria do P",
-    "description": "na galeria do P, as fotos estao ficando uma por cima da outra, sem dar espaço entre elas.",
-    "status": "open",
-    "createdAt": "2026-10-01T19:10:36.162Z",
-    "attachments": [
-      {
-        "name": "imagem_2026-10-01_161035488.png",
-        "path": "attachments/98d45e2d-b372-4a8a-8078-7b71e15a6d24/imagem_2026-10-01_161035488.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/98d45e2d-b372-4a8a-8078-7b71e15a6d24/imagem_2026-10-01_161035488.png",
-        "sha": "225f98c747159dcb37cdedac3234853e296892c3"
-      }
-    ],
-    "author": "vitin gordao da xj plus viado ui"
+    "createdAt": "2026-10-02T03:46:37.575Z",
+    "attachments": [],
+    "author": "judsu"
   },
   {
     "id": "b05cc643-02a2-4440-beb2-0410514ad3a9",
