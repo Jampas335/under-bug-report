@@ -5,7 +5,14 @@
     "description": "quando eu entrei no server, o onibus bugou e nao sai do lugar mesmo depois de o personagem descer dele",
     "status": "open",
     "createdAt": "2026-10-02T03:46:37.575Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "Captura de tela 2026-10-02 004352.png",
+        "path": "attachments/cc50a645-d45f-4ec6-be51-e80ec5e91407/Captura-de-tela-2026-10-02-004352.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/cc50a645-d45f-4ec6-be51-e80ec5e91407/Captura-de-tela-2026-10-02-004352.png",
+        "sha": "8b83f815b0cff7eaffe41ad9f1a41081321ecbdf"
+      }
+    ],
     "author": "judsu"
   },
   {
