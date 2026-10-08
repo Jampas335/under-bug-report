@@ -5,7 +5,14 @@
     "description": "os porps que ficam no chao quando a gente esta largando um item, estao desconexo com o item, tipo, eu estou largando uma borracha no chao, e esta aparecendo uma telha, o couro de caça esta um buço de colhar e varios outros",
     "status": "open",
     "createdAt": "2026-10-08T03:03:48.404Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "Captura de tela 2026-10-08 000304.png",
+        "path": "attachments/e4f0accc-055e-4dd7-a597-32fc68ecbd65/Captura-de-tela-2026-10-08-000304.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/e4f0accc-055e-4dd7-a597-32fc68ecbd65/Captura-de-tela-2026-10-08-000304.png",
+        "sha": "c438d9ad19444500a5c0f4e65e4b6aeb3bf5f5af"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
