@@ -5,7 +5,14 @@
     "description": "as fotos da galeria das publicaçoes, especificamente das publicaçoes, esta uma foto em cima da outra",
     "status": "open",
     "createdAt": "2026-10-08T03:29:56.882Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-10-08_002955612.png",
+        "path": "attachments/1739fce5-4095-4963-9428-84a994a1ba12/imagem_2026-10-08_002955612.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/1739fce5-4095-4963-9428-84a994a1ba12/imagem_2026-10-08_002955612.png",
+        "sha": "c4c065de694240a9fa47e53f94c9875de36ed37d"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
