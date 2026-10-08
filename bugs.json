@@ -1,5 +1,14 @@
 [
   {
+    "id": "a2a9eb52-69af-423c-a4c4-26190a0f3925",
+    "place": "aplicativo garagem celula",
+    "description": "a hud do app esta totalmente bugada, uma coisa dentro da outra, e escritas fora do lugar",
+    "status": "open",
+    "createdAt": "2026-10-08T03:08:11.080Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "e4f0accc-055e-4dd7-a597-32fc68ecbd65",
     "place": "porps que ficam no chao",
     "description": "os porps que ficam no chao quando a gente esta largando um item, estao desconexo com o item, tipo, eu estou largando uma borracha no chao, e esta aparecendo uma telha, o couro de caça esta um buço de colhar e varios outros",
