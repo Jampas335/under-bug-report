@@ -5,7 +5,14 @@
     "description": "meu ônibus nasceu de ladinho papai, o homi ta com sono, na vec vec4(2541.51, 4213.94, 40.92, 100.83)",
     "status": "open",
     "createdAt": "2026-10-08T02:23:22.120Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-10-07_232310701.png",
+        "path": "attachments/50d0931d-7400-4d47-91f6-d8dfb62aa512/imagem_2026-10-07_232310701.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/50d0931d-7400-4d47-91f6-d8dfb62aa512/imagem_2026-10-07_232310701.png",
+        "sha": "4980e0dafa036e3113fc7cb5554d2ee73453d4b7"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
