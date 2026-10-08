@@ -5,7 +5,14 @@
     "description": "a hud do app esta totalmente bugada, uma coisa dentro da outra, e escritas fora do lugar",
     "status": "open",
     "createdAt": "2026-10-08T03:08:11.080Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-10-08_000742037.png",
+        "path": "attachments/a2a9eb52-69af-423c-a4c4-26190a0f3925/imagem_2026-10-08_000742037.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/a2a9eb52-69af-423c-a4c4-26190a0f3925/imagem_2026-10-08_000742037.png",
+        "sha": "15c67dfc00daea3062434a475362459defd66ae0"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
