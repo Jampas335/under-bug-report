@@ -1,5 +1,14 @@
 [
   {
+    "id": "bf53ab90-fb35-4ab8-9d89-17ab521afd58",
+    "place": "boosting que precisa matar npc",
+    "description": "npcs devem ficar hotis quando chega perto ou quando atira na direção deles, pois os npc so estão ficando parados no boosting",
+    "status": "open",
+    "createdAt": "2026-10-11T19:59:31.773Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "2b0d090f-7928-48ba-a580-3a14ef96d4dc",
     "place": "chat do server",
     "description": "não esta aparecendo onde a gente esta no texto, entao da para saber onde a gente apaga ou a gente escreve",
