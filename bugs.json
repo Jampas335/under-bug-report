@@ -5,7 +5,14 @@
     "description": "apareceu um erro no f8 quando fui iniciar o boosting",
     "status": "open",
     "createdAt": "2026-10-11T20:07:51.184Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "Captura de tela 2026-10-11 170611.png",
+        "path": "attachments/6c0d4998-decf-4184-bbe0-53b6d9deec13/Captura-de-tela-2026-10-11-170611.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/6c0d4998-decf-4184-bbe0-53b6d9deec13/Captura-de-tela-2026-10-11-170611.png",
+        "sha": "c8eb269b75af4491ecc153e2a15a38e842f7b1b3"
+      }
+    ],
     "author": "judsu"
   },
   {
