@@ -1,5 +1,14 @@
 [
   {
+    "id": "270dbba5-e1de-4e25-a835-20f674576ded",
+    "place": "boostin do SkyLift",
+    "description": "quando a gente pega o helecoptero no boosting do SkyLift, ele não esta passando a próxima faze para oque deve ser feito.",
+    "status": "open",
+    "createdAt": "2026-10-11T20:00:18.105Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "bf53ab90-fb35-4ab8-9d89-17ab521afd58",
     "place": "boosting que precisa matar npc",
     "description": "npcs devem ficar hotis quando chega perto ou quando atira na direção deles, pois os npc so estão ficando parados no boosting",
