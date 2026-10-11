@@ -1,5 +1,14 @@
 [
   {
+    "id": "5271287c-53d0-4404-a762-b1c8f6083d4d",
+    "place": "teaser",
+    "description": "o teaser esta com o tempo do load muito curto, precisa deixar um pouco mais logo um desparo para o outro",
+    "status": "open",
+    "createdAt": "2026-10-11T20:05:11.027Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "270dbba5-e1de-4e25-a835-20f674576ded",
     "place": "boostin do SkyLift",
     "description": "quando a gente pega o helecoptero no boosting do SkyLift, ele não esta passando a próxima faze para oque deve ser feito.",
