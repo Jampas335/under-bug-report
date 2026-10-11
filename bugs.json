@@ -5,7 +5,14 @@
     "description": "itens do chao ta bugado, melhor por enquanto lançar o server com o pacote com o simbolo da aunder, para nao precisar se estressar com os itens e o server ficar mais otimizado, pois varios players jogando varios porps iria sobrecarregar o server ate o rr",
     "status": "open",
     "createdAt": "2026-10-11T20:25:47.095Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/d74c85c3-679c-4853-b260-260de76ec5c7/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/d74c85c3-679c-4853-b260-260de76ec5c7/image.png",
+        "sha": "32ed94981218e753f431a8625127b4cf0f2dad78"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
