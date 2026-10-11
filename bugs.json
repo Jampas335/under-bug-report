@@ -1,39 +1,12 @@
 [
   {
-    "id": "5271287c-53d0-4404-a762-b1c8f6083d4d",
-    "place": "teaser",
-    "description": "o teaser esta com o tempo do load muito curto, precisa deixar um pouco mais logo um desparo para o outro",
+    "id": "6c0d4998-decf-4184-bbe0-53b6d9deec13",
+    "place": "Boosting",
+    "description": "apareceu um erro no f8 quando fui iniciar o boosting",
     "status": "open",
-    "createdAt": "2026-10-11T20:05:11.027Z",
+    "createdAt": "2026-10-11T20:07:51.184Z",
     "attachments": [],
-    "author": "vitin gordao da xj plus viado ui"
-  },
-  {
-    "id": "270dbba5-e1de-4e25-a835-20f674576ded",
-    "place": "boostin do SkyLift",
-    "description": "quando a gente pega o helecoptero no boosting do SkyLift, ele não esta passando a próxima faze para oque deve ser feito.",
-    "status": "open",
-    "createdAt": "2026-10-11T20:00:18.105Z",
-    "attachments": [],
-    "author": "vitin gordao da xj plus viado ui"
-  },
-  {
-    "id": "bf53ab90-fb35-4ab8-9d89-17ab521afd58",
-    "place": "boosting que precisa matar npc",
-    "description": "npcs devem ficar hotis quando chega perto ou quando atira na direção deles, pois os npc so estão ficando parados no boosting",
-    "status": "open",
-    "createdAt": "2026-10-11T19:59:31.773Z",
-    "attachments": [],
-    "author": "vitin gordao da xj plus viado ui"
-  },
-  {
-    "id": "2b0d090f-7928-48ba-a580-3a14ef96d4dc",
-    "place": "chat do server",
-    "description": "não esta aparecendo onde a gente esta no texto, entao da para saber onde a gente apaga ou a gente escreve",
-    "status": "open",
-    "createdAt": "2026-10-11T18:07:13.925Z",
-    "attachments": [],
-    "author": "vitin gordao da xj plus viado ui"
+    "author": "judsu"
   },
   {
     "id": "c7978223-3a83-46b8-a594-90154cc8cb19",
