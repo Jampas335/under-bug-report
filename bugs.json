@@ -1,5 +1,14 @@
 [
   {
+    "id": "fbd10951-86ba-4fa8-9304-a550f29926e9",
+    "place": "atirar dentro do carro",
+    "description": "o p3 e o p4 nao esta conseguindo atirar",
+    "status": "open",
+    "createdAt": "2026-10-11T20:39:08.648Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "d74c85c3-679c-4853-b260-260de76ec5c7",
     "place": "intens do chao",
     "description": "itens do chao ta bugado, melhor por enquanto lançar o server com o pacote com o simbolo da aunder, para nao precisar se estressar com os itens e o server ficar mais otimizado, pois varios players jogando varios porps iria sobrecarregar o server ate o rr",
