@@ -1,5 +1,14 @@
 [
   {
+    "id": "2b0d090f-7928-48ba-a580-3a14ef96d4dc",
+    "place": "chat do server",
+    "description": "não esta aparecendo onde a gente esta no texto, entao da para saber onde a gente apaga ou a gente escreve",
+    "status": "open",
+    "createdAt": "2026-10-11T18:07:13.925Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "c7978223-3a83-46b8-a594-90154cc8cb19",
     "place": "chupchup",
     "description": "quando foi iniciar o trabalho de desmontar os o carro, ele desapareceu, so ficou por alguns segundo as peças voando, e depoois elas desapareceram tambem, era um burrito(obs todos desmanches ta dando isso, testamos com outro carro e ele esta sumindo)",
