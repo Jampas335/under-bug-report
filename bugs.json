@@ -5,7 +5,14 @@
     "description": "não tem npc dentro do caminhão, ele so esta parado aqui na garagem, e aparece esse erro da print",
     "status": "open",
     "createdAt": "2026-10-12T23:50:03.956Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-10-12_204955961.png",
+        "path": "attachments/9f79c7b6-7191-41bc-b7f1-ef7dd33593bf/imagem_2026-10-12_204955961.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/9f79c7b6-7191-41bc-b7f1-ef7dd33593bf/imagem_2026-10-12_204955961.png",
+        "sha": "096962b77cfb6940d1192f1d15bbf99b39320caa"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
