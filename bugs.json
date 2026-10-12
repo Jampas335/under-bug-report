@@ -1,5 +1,14 @@
 [
   {
+    "id": "9f79c7b6-7191-41bc-b7f1-ef7dd33593bf",
+    "place": "caminhao marcado",
+    "description": "não tem npc dentro do caminhão, ele so esta parado aqui na garagem, e aparece esse erro da print",
+    "status": "open",
+    "createdAt": "2026-10-12T23:50:03.956Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "88b39d7d-5ae7-4c94-986c-1ad4db655bb6",
     "place": "roubo a casa",
     "description": "quando eu vou fazer o hack do notebook da casa, ele nao esta enviando a camera para a tela",
