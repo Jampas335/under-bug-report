@@ -1,5 +1,14 @@
 [
   {
+    "id": "71b7a2ac-c2c3-4704-9858-d83b64f5b4e3",
+    "place": "caminhao marcado",
+    "description": "mesmo depois de a gente conversar com o npc, a marcaoçao do gps para ir ate ele não sumiu, mas esta aparecendo a loc do caminhão certo",
+    "status": "open",
+    "createdAt": "2026-10-12T23:50:21.795Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "9f79c7b6-7191-41bc-b7f1-ef7dd33593bf",
     "place": "caminhao marcado",
     "description": "não tem npc dentro do caminhão, ele so esta parado aqui na garagem, e aparece esse erro da print",
