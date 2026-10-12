@@ -1,5 +1,14 @@
 [
   {
+    "id": "6dc6616d-27da-4789-9270-064313faa314",
+    "place": "caminhao marcado",
+    "description": "o blip do caminhão esta literamnete em cima de onde ele spawna",
+    "status": "open",
+    "createdAt": "2026-10-12T23:50:35.357Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "71b7a2ac-c2c3-4704-9858-d83b64f5b4e3",
     "place": "caminhao marcado",
     "description": "mesmo depois de a gente conversar com o npc, a marcaoçao do gps para ir ate ele não sumiu, mas esta aparecendo a loc do caminhão certo",
