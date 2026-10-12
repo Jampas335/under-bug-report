@@ -5,7 +5,14 @@
     "description": "essas bomba das arvores perto da fazenda estao varias sem colisao",
     "status": "open",
     "createdAt": "2026-10-12T02:44:19.153Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-10-11_234354145.png",
+        "path": "attachments/49a61802-4170-40af-b9d7-7520d5f1cbd0/imagem_2026-10-11_234354145.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/49a61802-4170-40af-b9d7-7520d5f1cbd0/imagem_2026-10-11_234354145.png",
+        "sha": "5df4ad8793bc4d61d54026db9cab6d0803da04e6"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
