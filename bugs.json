@@ -5,7 +5,14 @@
     "description": "nao esta aparecendo o prop da tv na mao do player",
     "status": "open",
     "createdAt": "2026-10-12T23:58:07.484Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-10-12_205806542.png",
+        "path": "attachments/770f704a-a43c-49f8-b36a-30c714e3416f/imagem_2026-10-12_205806542.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/770f704a-a43c-49f8-b36a-30c714e3416f/imagem_2026-10-12_205806542.png",
+        "sha": "6d652139a10783953c8a8bbf1d5fa5383fa0474a"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
