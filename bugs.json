@@ -1,5 +1,14 @@
 [
   {
+    "id": "ca71096f-be82-4f49-add6-859a7a6ce323",
+    "place": "npc loja da mineraçao",
+    "description": "a picareta na loja esta sem imagem",
+    "status": "open",
+    "createdAt": "2026-10-13T23:12:57.017Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "8cafbf53-5485-4eaa-81a2-db2ac03cb2d9",
     "place": "toda a tela do jogo",
     "description": "ficou tudo azul na tematica do server, da pra ver mais nada",
