@@ -5,7 +5,14 @@
     "description": "nao da para vender o bong em nenhm dos vendedores, nao aparece ele para vender",
     "status": "open",
     "createdAt": "2026-10-13T20:15:41.949Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/bdaa67a5-e9e5-456a-9c19-3838f54e3698/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/bdaa67a5-e9e5-456a-9c19-3838f54e3698/image.png",
+        "sha": "bf9099833f381a0ac7f5603eee594b5f929a0509"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
