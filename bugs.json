@@ -2,7 +2,7 @@
   {
     "id": "16381904-39bd-4513-ac53-3f275b926172",
     "place": "portao das garagens da freten do pawshop",
-    "description": "Além das portas estarem brilhando de forma incorreta, sem respeitar a iluminação do mapa, também está acontecendo outro problema: quando nos afastamos um pouco, viramos a câmera para outra direção e depois olhamos novamente para as portas, elas ficam abrindo e fechando sozinhas, como mostra a primeira print.",
+    "description": "Além das portas estarem brilhando de forma incorreta, sem respeitar a iluminação do mapa, também está acontecendo outro problema: quando nos afastamos um pouco, viramos a câmera para outra direção e depois olhamos novamente para as portas, elas ficam abrindo e fechando sozinhas, como mostra a primeira print. vec4(-248.23, 309.96, 94.85, 338.55)",
     "status": "open",
     "createdAt": "2026-10-13T00:28:56.361Z",
     "attachments": [
