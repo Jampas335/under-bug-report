@@ -1,5 +1,14 @@
 [
   {
+    "id": "eb8d4be7-9e71-4423-bb11-ea86d71996aa",
+    "place": "bosting",
+    "description": "Quando eu termino os hacks, a missão confirma pelas mensagens que essa etapa foi concluída. Em seguida, aparece também a mensagem informando que podemos ganhar um dinheiro extra caso optemos por modificar o veículo.\n\nPorém, mesmo após essas duas mensagens, a localização de onde devemos entregar o veículo não é enviada, impedindo a continuidade da missão.\n\nAlém disso, a HUD do notebook está apresentando um erro na etapa da missão. Mesmo depois de concluir o hack, ela volta para a etapa 1, indicando que precisamos localizar o veículo novamente, como mostra a primeira imagem.\n\n**Resumindo os problemas:**\n- Após concluir os hacks, a localização para entregar o veículo não é informada.\n- A HUD do notebook apresenta a etapa incorreta, retornando para a etapa 1 mesmo após a conclusão do hack.",
+    "status": "open",
+    "createdAt": "2026-10-13T19:40:13.075Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "391d1194-026b-45a6-b379-d40d298748c1",
     "place": "roubo a casa",
     "description": "os sons do pc esta carregando para todo mundo, nao importa onde voce esta, pegue uma distancia boa da porra, e ainda tava carregando, apos roubar tudo, ele esta aparecendo a mensagem de sair da regiao, mas nao esta mostrando onde devemos entregar as mercadorias",
