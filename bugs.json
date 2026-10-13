@@ -5,7 +5,20 @@
     "description": "aparentemente todas as motos que tem no server, esta tendo portamalas, nao deveria ter, obvio.",
     "status": "open",
     "createdAt": "2026-10-12T23:59:26.212Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-10-12_205902911.png",
+        "path": "attachments/b73ffab7-337d-44ef-b890-a6315d9dd211/imagem_2026-10-12_205902911.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/b73ffab7-337d-44ef-b890-a6315d9dd211/imagem_2026-10-12_205902911.png",
+        "sha": "bbd4d5987bf6d4374905e4e15a07fba94237af31"
+      },
+      {
+        "name": "Captura de tela 2026-10-12 205851.png",
+        "path": "attachments/b73ffab7-337d-44ef-b890-a6315d9dd211/Captura-de-tela-2026-10-12-205851.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/b73ffab7-337d-44ef-b890-a6315d9dd211/Captura-de-tela-2026-10-12-205851.png",
+        "sha": "8df11037d6f5600f9f8dd779a34ed04643edbfdf"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
