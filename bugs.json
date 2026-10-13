@@ -1,5 +1,14 @@
 [
   {
+    "id": "8cafbf53-5485-4eaa-81a2-db2ac03cb2d9",
+    "place": "toda a tela do jogo",
+    "description": "ficou tudo azul na tematica do server, da pra ver mais nada",
+    "status": "open",
+    "createdAt": "2026-10-13T21:32:43.693Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "bdaa67a5-e9e5-456a-9c19-3838f54e3698",
     "place": "pawshop",
     "description": "nao da para vender o bong em nenhm dos vendedores, nao aparece ele para vender",
@@ -51,8 +60,7 @@
         "sha": "5f9e25f5f48fe290cc4498027cd1bf2bf39fd98c"
       }
     ],
-    "author": "vitin gordao da xj plus viado ui",
-    "implemented": true
+    "author": "vitin gordao da xj plus viado ui"
   },
   {
     "id": "391d1194-026b-45a6-b379-d40d298748c1",
