@@ -5,7 +5,14 @@
     "description": "ficou tudo azul na tematica do server, da pra ver mais nada",
     "status": "open",
     "createdAt": "2026-10-13T21:32:43.693Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-10-13_183243126.png",
+        "path": "attachments/8cafbf53-5485-4eaa-81a2-db2ac03cb2d9/imagem_2026-10-13_183243126.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/8cafbf53-5485-4eaa-81a2-db2ac03cb2d9/imagem_2026-10-13_183243126.png",
+        "sha": "f56b583518fa6ed1d07ffbab0c6960de9e1ab88d"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
