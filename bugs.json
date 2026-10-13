@@ -5,7 +5,14 @@
     "description": "a picareta na loja esta sem imagem",
     "status": "open",
     "createdAt": "2026-10-13T23:12:57.017Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "Captura de tela 2026-10-13 201052.png",
+        "path": "attachments/ca71096f-be82-4f49-add6-859a7a6ce323/Captura-de-tela-2026-10-13-201052.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/ca71096f-be82-4f49-add6-859a7a6ce323/Captura-de-tela-2026-10-13-201052.png",
+        "sha": "9128207a544abdf9449d63aae288b191340e2e4b"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
