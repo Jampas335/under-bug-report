@@ -5,7 +5,14 @@
     "description": "cliquei para negociar em lote com a velha, e ela ta correndo na parede, precisa calibrar por onde ela vai",
     "status": "open",
     "createdAt": "2026-10-13T20:11:45.178Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-10-13_171144141.png",
+        "path": "attachments/2e1ae070-9d38-4729-a671-25964607df9f/imagem_2026-10-13_171144141.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/2e1ae070-9d38-4729-a671-25964607df9f/imagem_2026-10-13_171144141.png",
+        "sha": "e39a4efd5e9c6b45f3a31a69f436d713da5b15af"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
