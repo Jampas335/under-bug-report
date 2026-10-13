@@ -5,7 +5,20 @@
     "description": "Quando eu termino os hacks, a missão confirma pelas mensagens que essa etapa foi concluída. Em seguida, aparece também a mensagem informando que podemos ganhar um dinheiro extra caso optemos por modificar o veículo.\n\nPorém, mesmo após essas duas mensagens, a localização de onde devemos entregar o veículo não é enviada, impedindo a continuidade da missão.\n\nAlém disso, a HUD do notebook está apresentando um erro na etapa da missão. Mesmo depois de concluir o hack, ela volta para a etapa 1, indicando que precisamos localizar o veículo novamente, como mostra a primeira imagem.\n\n**Resumindo os problemas:**\n- Após concluir os hacks, a localização para entregar o veículo não é informada.\n- A HUD do notebook apresenta a etapa incorreta, retornando para a etapa 1 mesmo após a conclusão do hack.",
     "status": "open",
     "createdAt": "2026-10-13T19:40:13.075Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "Captura de tela 2026-10-13 163051.png",
+        "path": "attachments/eb8d4be7-9e71-4423-bb11-ea86d71996aa/Captura-de-tela-2026-10-13-163051.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/eb8d4be7-9e71-4423-bb11-ea86d71996aa/Captura-de-tela-2026-10-13-163051.png",
+        "sha": "6e82a13622ac743f4852ac5d618ba728e40a7e06"
+      },
+      {
+        "name": "Captura de tela 2026-10-13 163059.png",
+        "path": "attachments/eb8d4be7-9e71-4423-bb11-ea86d71996aa/Captura-de-tela-2026-10-13-163059.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/eb8d4be7-9e71-4423-bb11-ea86d71996aa/Captura-de-tela-2026-10-13-163059.png",
+        "sha": "5f9e25f5f48fe290cc4498027cd1bf2bf39fd98c"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
