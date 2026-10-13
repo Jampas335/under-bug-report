@@ -5,7 +5,20 @@
     "description": "Além das portas estarem brilhando de forma incorreta, sem respeitar a iluminação do mapa, também está acontecendo outro problema: quando nos afastamos um pouco, viramos a câmera para outra direção e depois olhamos novamente para as portas, elas ficam abrindo e fechando sozinhas, como mostra a primeira print.",
     "status": "open",
     "createdAt": "2026-10-13T00:28:56.361Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-10-12_212634689.png",
+        "path": "attachments/16381904-39bd-4513-ac53-3f275b926172/imagem_2026-10-12_212634689.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/16381904-39bd-4513-ac53-3f275b926172/imagem_2026-10-12_212634689.png",
+        "sha": "d8dbf99a5b099879cfce9fbc1d21a5df7460c2d2"
+      },
+      {
+        "name": "Captura de tela 2026-10-12 212602.png",
+        "path": "attachments/16381904-39bd-4513-ac53-3f275b926172/Captura-de-tela-2026-10-12-212602.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/16381904-39bd-4513-ac53-3f275b926172/Captura-de-tela-2026-10-12-212602.png",
+        "sha": "f6d354192841d2973af470607720d0e36a881fa2"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
