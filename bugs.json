@@ -1,28 +1,5 @@
 [
   {
-    "id": "16381904-39bd-4513-ac53-3f275b926172",
-    "place": "portao das garagens da freten do pawshop",
-    "description": "Além das portas estarem brilhando de forma incorreta, sem respeitar a iluminação do mapa, também está acontecendo outro problema: quando nos afastamos um pouco, viramos a câmera para outra direção e depois olhamos novamente para as portas, elas ficam abrindo e fechando sozinhas, como mostra a primeira print. vec4(-248.23, 309.96, 94.85, 338.55)",
-    "status": "open",
-    "createdAt": "2026-10-13T00:28:56.361Z",
-    "attachments": [
-      {
-        "name": "imagem_2026-10-12_212634689.png",
-        "path": "attachments/16381904-39bd-4513-ac53-3f275b926172/imagem_2026-10-12_212634689.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/16381904-39bd-4513-ac53-3f275b926172/imagem_2026-10-12_212634689.png",
-        "sha": "d8dbf99a5b099879cfce9fbc1d21a5df7460c2d2"
-      },
-      {
-        "name": "Captura de tela 2026-10-12 212602.png",
-        "path": "attachments/16381904-39bd-4513-ac53-3f275b926172/Captura-de-tela-2026-10-12-212602.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/16381904-39bd-4513-ac53-3f275b926172/Captura-de-tela-2026-10-12-212602.png",
-        "sha": "f6d354192841d2973af470607720d0e36a881fa2"
-      }
-    ],
-    "author": "vitin gordao da xj plus viado ui",
-    "implemented": false
-  },
-  {
     "id": "391d1194-026b-45a6-b379-d40d298748c1",
     "place": "roubo a casa",
     "description": "os sons do pc esta carregando para todo mundo, nao importa onde voce esta, pegue uma distancia boa da porra, e ainda tava carregando, apos roubar tudo, ele esta aparecendo a mensagem de sair da regiao, mas nao esta mostrando onde devemos entregar as mercadorias",
@@ -58,23 +35,8 @@
         "sha": "8df11037d6f5600f9f8dd779a34ed04643edbfdf"
       }
     ],
-    "author": "vitin gordao da xj plus viado ui"
-  },
-  {
-    "id": "770f704a-a43c-49f8-b36a-30c714e3416f",
-    "place": "roubo a casa",
-    "description": "nao esta aparecendo o prop da tv na mao do player",
-    "status": "open",
-    "createdAt": "2026-10-12T23:58:07.484Z",
-    "attachments": [
-      {
-        "name": "imagem_2026-10-12_205806542.png",
-        "path": "attachments/770f704a-a43c-49f8-b36a-30c714e3416f/imagem_2026-10-12_205806542.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/770f704a-a43c-49f8-b36a-30c714e3416f/imagem_2026-10-12_205806542.png",
-        "sha": "6d652139a10783953c8a8bbf1d5fa5383fa0474a"
-      }
-    ],
-    "author": "vitin gordao da xj plus viado ui"
+    "author": "vitin gordao da xj plus viado ui",
+    "implemented": true
   },
   {
     "id": "6dc6616d-27da-4789-9270-064313faa314",
@@ -83,7 +45,8 @@
     "status": "open",
     "createdAt": "2026-10-12T23:50:35.357Z",
     "attachments": [],
-    "author": "vitin gordao da xj plus viado ui"
+    "author": "vitin gordao da xj plus viado ui",
+    "implemented": true
   },
   {
     "id": "71b7a2ac-c2c3-4704-9858-d83b64f5b4e3",
@@ -92,7 +55,8 @@
     "status": "open",
     "createdAt": "2026-10-12T23:50:21.795Z",
     "attachments": [],
-    "author": "vitin gordao da xj plus viado ui"
+    "author": "vitin gordao da xj plus viado ui",
+    "implemented": true
   },
   {
     "id": "9f79c7b6-7191-41bc-b7f1-ef7dd33593bf",
@@ -108,7 +72,8 @@
         "sha": "096962b77cfb6940d1192f1d15bbf99b39320caa"
       }
     ],
-    "author": "vitin gordao da xj plus viado ui"
+    "author": "vitin gordao da xj plus viado ui",
+    "implemented": true
   },
   {
     "id": "88b39d7d-5ae7-4c94-986c-1ad4db655bb6",
