@@ -1,5 +1,14 @@
 [
   {
+    "id": "4fa61a9f-2b8b-4f89-bf60-0304bb99ab97",
+    "place": "gps de auxiliar da costa",
+    "description": "quando a gente clica em iniciar o trabalho no celular de auxiliar da costa, ele nao esta mandando um caminho ate onde é a gina para conversar, nem aparece um blip para indicar",
+    "status": "open",
+    "createdAt": "2026-10-14T04:10:23.857Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "3f6a8847-5494-49ca-aa91-d77ac9b4a76b",
     "place": "marketing de sandy",
     "description": "fomos tentar vender a maderia, mas a loja nao reconhece nossas tabuas, entao nao da para vender msms tendo elas no inventario",
