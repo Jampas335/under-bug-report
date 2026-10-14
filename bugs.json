@@ -1,5 +1,14 @@
 [
   {
+    "id": "b8962e66-659e-442f-b672-6e5af9013729",
+    "place": "carro forte",
+    "description": "alem de nao aparecer nenhum npc para atirar na gente, quando a gente rouba o carro forte, ele nao esta falando o proximo passo ou a proxima regiao",
+    "status": "open",
+    "createdAt": "2026-10-14T05:27:08.526Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "738f4a6e-63c4-4b06-8cbd-4e5ac82c65b8",
     "place": "erro f8 judus",
     "description": "SCRIPT ERROR: @prea-carroforte/client/guards.lua:133: attempt to call a nil value (global 'PlaceEntityOnGroundProperly')^7",
