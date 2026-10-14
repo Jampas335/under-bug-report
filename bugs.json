@@ -1,5 +1,14 @@
 [
   {
+    "id": "155064e6-bb0b-4dd1-8859-3dce8ab24673",
+    "place": "hack laptop casa",
+    "description": "quando a gente vai hackear, a tela nao esta indo para UI do laptop, ela fica na 3 pessoa, assim nao da para fazer o hack, mas o som foi corrigido, agora so falta arrumar a tela ir para o notebook",
+    "status": "open",
+    "createdAt": "2026-10-14T23:16:56.433Z",
+    "attachments": [],
+    "author": "Sem nickname"
+  },
+  {
     "id": "07d5f3eb-e803-4c1e-bd7c-9ef03428135e",
     "place": "ao atirar",
     "description": "creio que aparecer tanta notificaçao de que eu estou me estressando é desnessesario, colocaria para aparecer a cada uns 50 tiro ou mais, para nao ficar espamando assim na tela",
