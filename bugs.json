@@ -1,5 +1,14 @@
 [
   {
+    "id": "3e8640c0-1663-40f9-a63f-fde5941e27a7",
+    "place": "alarme da casa",
+    "description": "o alarme esta tocando assim que a gente tenta abrir a casa, sem errar ou alertar os npcs de dentro da casa, so da gente tentar abrir a porta, ele ja esta tocando, e o som do alarme esta com o audio do carro sendo roubado, seria melhor colocar outro tipo de som",
+    "status": "open",
+    "createdAt": "2026-10-14T23:19:07.965Z",
+    "attachments": [],
+    "author": "Sem nickname"
+  },
+  {
     "id": "155064e6-bb0b-4dd1-8859-3dce8ab24673",
     "place": "hack laptop casa",
     "description": "quando a gente vai hackear, a tela nao esta indo para UI do laptop, ela fica na 3 pessoa, assim nao da para fazer o hack, mas o som foi corrigido, agora so falta arrumar a tela ir para o notebook",
