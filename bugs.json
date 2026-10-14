@@ -1,5 +1,14 @@
 [
   {
+    "id": "7bb5b670-3678-4a02-b488-b1e68b3daf40",
+    "place": "dançarino",
+    "description": "quando tentam lavar o maço de dinhero, ele nao esta lavando, so o rolinho que esta funcionando",
+    "status": "open",
+    "createdAt": "2026-10-14T04:52:28.830Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "8bc1b442-eb1c-48d0-8600-ff04eae4b01e",
     "place": "ferro velho",
     "description": "quando um player do grupo tira uma peça, esta informando para todos do grupo, sendo que essa notificaçao deveria ser so para quem tirou a peça",
