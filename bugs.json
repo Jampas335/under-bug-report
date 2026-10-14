@@ -1,5 +1,14 @@
 [
   {
+    "id": "ff66bc13-f486-41e2-ac6e-9486ecf0e340",
+    "place": "vapid scout",
+    "description": "a scout esta sem som",
+    "status": "open",
+    "createdAt": "2026-10-14T05:28:39.870Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "b8962e66-659e-442f-b672-6e5af9013729",
     "place": "carro forte",
     "description": "alem de nao aparecer nenhum npc para atirar na gente, quando a gente rouba o carro forte, ele nao esta falando o proximo passo ou a proxima regiao",
