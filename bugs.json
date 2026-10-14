@@ -1,5 +1,14 @@
 [
   {
+    "id": "eb4a3645-c008-4811-ae7f-8bc885eee37a",
+    "place": "carro forte",
+    "description": "apos explodir nao da para lotear o carro forte, pois nao aparece nada.",
+    "status": "open",
+    "createdAt": "2026-10-14T23:44:58.659Z",
+    "attachments": [],
+    "author": "Sem nickname"
+  },
+  {
     "id": "e4b6451a-ace0-4e00-8bdb-f015bd61f109",
     "place": "carro forte",
     "description": "nao esta dando para coletar os itens dos npc que foram mortos, tambem quando a gente chega no ponto de entregar o carro forte, ele nao fala oq deve ser feito",
