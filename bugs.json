@@ -1,5 +1,14 @@
 [
   {
+    "id": "8bc1b442-eb1c-48d0-8600-ff04eae4b01e",
+    "place": "ferro velho",
+    "description": "quando um player do grupo tira uma peça, esta informando para todos do grupo, sendo que essa notificaçao deveria ser so para quem tirou a peça",
+    "status": "open",
+    "createdAt": "2026-10-14T04:16:10.095Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "8ac0c526-4141-4c16-ac91-145ea9a5eaeb",
     "place": "trabalho de auxiliar da costa",
     "description": "nao da para inciar o trabalho, quando eu clico iniciar no celular e tento conversar com a npc, nao aparece nada para compra ou infomarm",
