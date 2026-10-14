@@ -5,7 +5,14 @@
     "description": "creio que aparecer tanta notificaçao de que eu estou me estressando é desnessesario, colocaria para aparecer a cada uns 50 tiro ou mais, para nao ficar espamando assim na tela",
     "status": "open",
     "createdAt": "2026-10-14T05:50:12.979Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-10-14_024958517.png",
+        "path": "attachments/07d5f3eb-e803-4c1e-bd7c-9ef03428135e/imagem_2026-10-14_024958517.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/07d5f3eb-e803-4c1e-bd7c-9ef03428135e/imagem_2026-10-14_024958517.png",
+        "sha": "d15d1a91a721b62abdb757ee6b98c59a93ecead4"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
