@@ -1,5 +1,14 @@
 [
   {
+    "id": "e4b6451a-ace0-4e00-8bdb-f015bd61f109",
+    "place": "carro forte",
+    "description": "nao esta dando para coletar os itens dos npc que foram mortos, tambem quando a gente chega no ponto de entregar o carro forte, ele nao fala oq deve ser feito",
+    "status": "open",
+    "createdAt": "2026-10-14T23:42:12.528Z",
+    "attachments": [],
+    "author": "Sem nickname"
+  },
+  {
     "id": "3e8640c0-1663-40f9-a63f-fde5941e27a7",
     "place": "alarme da casa",
     "description": "o alarme esta tocando assim que a gente tenta abrir a casa, sem errar ou alertar os npcs de dentro da casa, so da gente tentar abrir a porta, ele ja esta tocando, e o som do alarme esta com o audio do carro sendo roubado, seria melhor colocar outro tipo de som",
