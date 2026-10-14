@@ -1,5 +1,14 @@
 [
   {
+    "id": "8ac0c526-4141-4c16-ac91-145ea9a5eaeb",
+    "place": "trabalho de auxiliar da costa",
+    "description": "nao da para inciar o trabalho, quando eu clico iniciar no celular e tento conversar com a npc, nao aparece nada para compra ou infomarm",
+    "status": "open",
+    "createdAt": "2026-10-14T04:12:02.063Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "4fa61a9f-2b8b-4f89-bf60-0304bb99ab97",
     "place": "gps de auxiliar da costa",
     "description": "quando a gente clica em iniciar o trabalho no celular de auxiliar da costa, ele nao esta mandando um caminho ate onde é a gina para conversar, nem aparece um blip para indicar",
