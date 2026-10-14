@@ -5,7 +5,14 @@
     "description": "nao esta dando para coletar os itens dos npc que foram mortos, tambem quando a gente chega no ponto de entregar o carro forte, ele nao fala oq deve ser feito",
     "status": "open",
     "createdAt": "2026-10-14T23:42:12.528Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-10-14_204211683.png",
+        "path": "attachments/e4b6451a-ace0-4e00-8bdb-f015bd61f109/imagem_2026-10-14_204211683.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/e4b6451a-ace0-4e00-8bdb-f015bd61f109/imagem_2026-10-14_204211683.png",
+        "sha": "bc3382cb1800f2ac708e6375dd77a0ca4aa67cb2"
+      }
+    ],
     "author": "Sem nickname"
   },
   {
