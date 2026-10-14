@@ -1,5 +1,14 @@
 [
   {
+    "id": "d6405de7-b391-425c-8a99-eabd5c8141fd",
+    "place": "hack da casa",
+    "description": "apos falhar no hack, nao tem como sair dessa tela, pois nao tem como clicar no ok, o mouse nao aparece e nem clicanod enter ou del ele sai",
+    "status": "open",
+    "createdAt": "2026-10-14T05:12:58.148Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "be66fd5c-c0b6-45a1-a8ca-48728d92fd85",
     "place": "pawshop",
     "description": "os npcs estao de baixo da terra, nao estao mais na frente do balcao",
