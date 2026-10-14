@@ -5,7 +5,14 @@
     "description": "apos o outro desligar, nao esta saindo da tela de chamada no celular, nessa print, o judsu ja tinha desligado e meu celular tava nessa tela ainda",
     "status": "open",
     "createdAt": "2026-10-14T04:54:48.686Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-10-14_015429847.png",
+        "path": "attachments/ba80dcca-ae61-4ded-b76e-b193b32e75fc/imagem_2026-10-14_015429847.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/ba80dcca-ae61-4ded-b76e-b193b32e75fc/imagem_2026-10-14_015429847.png",
+        "sha": "df8934ea3aa1fa5c93bcd7569bc1ae571c620c52"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
