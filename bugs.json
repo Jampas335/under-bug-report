@@ -1,5 +1,14 @@
 [
   {
+    "id": "3f6a8847-5494-49ca-aa91-d77ac9b4a76b",
+    "place": "marketing de sandy",
+    "description": "fomos tentar vender a maderia, mas a loja nao reconhece nossas tabuas, entao nao da para vender msms tendo elas no inventario",
+    "status": "open",
+    "createdAt": "2026-10-14T04:07:14.804Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "1eeb9334-e597-49d1-8f04-a6f09a047ec5",
     "place": "lenhador",
     "description": "ao tentar alugar um carro aqui no lenhador, ele nao infroma que voce nao pode pq esta sem dinheiro, seria melhor deixar claro que é pq o player nao tem dinheiro na mao",
