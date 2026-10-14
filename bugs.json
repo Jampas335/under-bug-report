@@ -5,7 +5,14 @@
     "description": "ao tentar alugar um carro aqui no lenhador, ele nao infroma que voce nao pode pq esta sem dinheiro, seria melhor deixar claro que é pq o player nao tem dinheiro na mao",
     "status": "open",
     "createdAt": "2026-10-14T03:47:40.029Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-10-14_004719845.png",
+        "path": "attachments/1eeb9334-e597-49d1-8f04-a6f09a047ec5/imagem_2026-10-14_004719845.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/1eeb9334-e597-49d1-8f04-a6f09a047ec5/imagem_2026-10-14_004719845.png",
+        "sha": "f57868dcbf9acef4cae4f9e4d2090289fe92eb35"
+      }
+    ],
     "author": "vitin gordao da xj plus viado ui"
   },
   {
