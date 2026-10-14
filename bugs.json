@@ -1,5 +1,14 @@
 [
   {
+    "id": "b49cd22c-0c89-40dc-93f5-d0ff5eb1ffbc",
+    "place": "erro f8 de jusdu",
+    "description": "SCRIPT ERROR: @prea-houserob/client/world.lua:255: attempt to index a nil value (global 'CurrentMission')^7",
+    "status": "open",
+    "createdAt": "2026-10-14T05:18:08.880Z",
+    "attachments": [],
+    "author": "vitin gordao da xj plus viado ui"
+  },
+  {
     "id": "e6fb50ba-ce99-4f06-9916-45e50a7f11e4",
     "place": "barulho do hack",
     "description": "ainda esta dando para escutar de longe",
