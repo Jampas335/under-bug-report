@@ -141,15 +141,6 @@
     "implemented": true
   },
   {
-    "id": "9e3f9684-1f06-4bc9-870f-01a8c30cba66",
-    "place": "roubo a garagem",
-    "description": "quando a gente vai roubar a garagem que fica na frente da pawshop, o npc esta vendo a gente antes de a gente abrir o portao, ele esta nos vendo por tras da parede",
-    "status": "open",
-    "createdAt": "2026-10-14T04:59:06.085Z",
-    "attachments": [],
-    "author": "vitin gordao da xj plus viado ui"
-  },
-  {
     "id": "ba80dcca-ae61-4ded-b76e-b193b32e75fc",
     "place": "ligaçao",
     "description": "apos o outro desligar, nao esta saindo da tela de chamada no celular, nessa print, o judsu ja tinha desligado e meu celular tava nessa tela ainda",
