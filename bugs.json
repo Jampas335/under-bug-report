@@ -104,15 +104,6 @@
     "implemented": true
   },
   {
-    "id": "a43ea661-bd7f-4276-92dd-218e12569e05",
-    "place": "caminhao marcado",
-    "description": "agora depois de falar com o npc, nao esta aparecendo nenhum blip no mapa de onde esta o caminhao, e aparentemente nem ele esta aparecendo",
-    "status": "open",
-    "createdAt": "2026-10-14T05:21:39.987Z",
-    "attachments": [],
-    "author": "vitin gordao da xj plus viado ui"
-  },
-  {
     "id": "b49cd22c-0c89-40dc-93f5-d0ff5eb1ffbc",
     "place": "erro f8 de jusdu",
     "description": "SCRIPT ERROR: @prea-houserob/client/world.lua:255: attempt to index a nil value (global 'CurrentMission')^7",
