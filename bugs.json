@@ -141,23 +141,6 @@
     "implemented": true
   },
   {
-    "id": "be66fd5c-c0b6-45a1-a8ca-48728d92fd85",
-    "place": "pawshop",
-    "description": "os npcs estao de baixo da terra, nao estao mais na frente do balcao",
-    "status": "open",
-    "createdAt": "2026-10-14T05:03:14.107Z",
-    "attachments": [
-      {
-        "name": "imagem_2026-10-14_020313489.png",
-        "path": "attachments/be66fd5c-c0b6-45a1-a8ca-48728d92fd85/imagem_2026-10-14_020313489.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/be66fd5c-c0b6-45a1-a8ca-48728d92fd85/imagem_2026-10-14_020313489.png",
-        "sha": "2c581f07b2cba982a7a7c42fc51810dcce9b8768"
-      }
-    ],
-    "author": "vitin gordao da xj plus viado ui",
-    "implemented": false
-  },
-  {
     "id": "9e3f9684-1f06-4bc9-870f-01a8c30cba66",
     "place": "roubo a garagem",
     "description": "quando a gente vai roubar a garagem que fica na frente da pawshop, o npc esta vendo a gente antes de a gente abrir o portao, ele esta nos vendo por tras da parede",
