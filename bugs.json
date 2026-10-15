@@ -215,22 +215,6 @@
     "implemented": true
   },
   {
-    "id": "67944c3a-0659-4b8b-817c-471236a05624",
-    "place": "mineraçao",
-    "description": "quando a gente quebra um minerio ele esta ficando flutuando, nao sobre o chao",
-    "status": "open",
-    "createdAt": "2026-10-14T01:37:53.334Z",
-    "attachments": [
-      {
-        "name": "imagem_2026-10-13_223752717.png",
-        "path": "attachments/67944c3a-0659-4b8b-817c-471236a05624/imagem_2026-10-13_223752717.png",
-        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/67944c3a-0659-4b8b-817c-471236a05624/imagem_2026-10-13_223752717.png",
-        "sha": "41a19ab2449900e56e226e10fe6031a582fa9d26"
-      }
-    ],
-    "author": "vitin gordao da xj plus viado ui"
-  },
-  {
     "id": "e9f284cd-3962-4d4f-ad94-6d89171108fa",
     "place": "loc dos mineiros na bison",
     "description": "nao sei se é pq essa bison é diferente, mas as loc dos mineiros esta ficando para dentro da caçamba e nao sobre ela",
