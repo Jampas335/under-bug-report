@@ -5,7 +5,14 @@
     "description": "trabalho ainda esta bugado, nao da para puxar, mas pelo menos esta aprecendo o (E) quando chega perto da mulher la, quando a gente inicia o trabalho pelo celular, ele ainda nao muda a interface para trabalho inciaido ou terminar trabalho, exemplo nessa foto eu ja tinha clicado para iniciar o cerviço",
     "status": "open",
     "createdAt": "2026-10-18T04:09:12.557Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/820f98ec-3918-4edd-b905-a59c630e07d3/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/820f98ec-3918-4edd-b905-a59c630e07d3/image.png",
+        "sha": "7b96ee1629c4e90eb55bd4a2ca8b8a8fac0f2fda"
+      }
+    ],
     "author": "Sem nickname"
   },
   {
