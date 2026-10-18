@@ -39,7 +39,8 @@
     "status": "open",
     "createdAt": "2026-10-18T04:03:46.350Z",
     "attachments": [],
-    "author": "Sem nickname"
+    "author": "Sem nickname",
+    "implemented": true
   },
   {
     "id": "0e7019d1-034a-4914-9d92-290a131197da",
