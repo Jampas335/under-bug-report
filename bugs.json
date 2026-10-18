@@ -82,7 +82,8 @@
         "sha": "f49516b1f3f676ab517f843ab93adcb2a586ce4e"
       }
     ],
-    "author": "Sem nickname"
+    "author": "Sem nickname",
+    "implemented": true
   },
   {
     "id": "eb4a3645-c008-4811-ae7f-8bc885eee37a",
