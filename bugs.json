@@ -5,7 +5,14 @@
     "description": "lotear npc no carro forte esta bugado pois quando a gente vai revistar ele, a gente fica infinito em animaçao de lotear e nao recebe nada",
     "status": "open",
     "createdAt": "2026-10-18T03:39:17.399Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "imagem_2026-10-18_003916371.png",
+        "path": "attachments/2f6f2965-5974-4b0b-83fa-f71f4b30dd3d/imagem_2026-10-18_003916371.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/2f6f2965-5974-4b0b-83fa-f71f4b30dd3d/imagem_2026-10-18_003916371.png",
+        "sha": "f49516b1f3f676ab517f843ab93adcb2a586ce4e"
+      }
+    ],
     "author": "Sem nickname"
   },
   {
