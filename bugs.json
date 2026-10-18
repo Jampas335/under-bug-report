@@ -1,5 +1,14 @@
 [
   {
+    "id": "2f6f2965-5974-4b0b-83fa-f71f4b30dd3d",
+    "place": "carro forte",
+    "description": "lotear npc no carro forte esta bugado pois quando a gente vai revistar ele, a gente fica infinito em animaçao de lotear e nao recebe nada",
+    "status": "open",
+    "createdAt": "2026-10-18T03:39:17.399Z",
+    "attachments": [],
+    "author": "Sem nickname"
+  },
+  {
     "id": "eb4a3645-c008-4811-ae7f-8bc885eee37a",
     "place": "carro forte",
     "description": "apos explodir nao da para lotear o carro forte, pois nao aparece nada.",
