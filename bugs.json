@@ -1,5 +1,14 @@
 [
   {
+    "id": "9ffef454-0b41-4d8b-99a7-dbc86fd486e3",
+    "place": "npc da pashopw",
+    "description": "ta de baixo da terra ainda, nao usa essa bomba de astra, parece mais burro que o luna, volta para sol que é melhor",
+    "status": "open",
+    "createdAt": "2026-10-18T04:05:41.927Z",
+    "attachments": [],
+    "author": "Sem nickname"
+  },
+  {
     "id": "cdb774fc-53f4-474c-a5b3-305ed4e4efbf",
     "place": "casa",
     "description": "alarme da casa sem som, quando clica para abir a porta automanticamente ja toca o alarme e alerta o npc, ainda esta bugado a terceira pessoa do leptop da casa",
