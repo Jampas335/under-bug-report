@@ -1,5 +1,14 @@
 [
   {
+    "id": "0e7019d1-034a-4914-9d92-290a131197da",
+    "place": "caminhao marcado",
+    "description": "alem dele esta falando localizaçao de ruas sem sentido pois uma é no norte e outra é no sul, ele nao esta spawnando o caminhao, alem disso, judsu disse que apareceu uma mensagem o caminhao nao sincronizou",
+    "status": "open",
+    "createdAt": "2026-10-18T03:56:28.220Z",
+    "attachments": [],
+    "author": "Sem nickname"
+  },
+  {
     "id": "0449e048-ee57-4ab8-81de-6649bd0fc260",
     "place": "carro forte",
     "description": "apos jogar a bomba no porta malas ou ate msm hackear o carro forte, ele nao esta liberando nada para lotear, nao aparece nada, tambem sobre a info da bomba, seria melhor aparecer algo informativo na mensagem do celular, nao naquelas notificaçoes que ficar no canto superior direito.",
