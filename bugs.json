@@ -5,7 +5,14 @@
     "description": "alem dele esta falando localizaçao de ruas sem sentido pois uma é no norte e outra é no sul, ele nao esta spawnando o caminhao, alem disso, judsu disse que apareceu uma mensagem o caminhao nao sincronizou",
     "status": "open",
     "createdAt": "2026-10-18T03:56:28.220Z",
-    "attachments": [],
+    "attachments": [
+      {
+        "name": "image.png",
+        "path": "attachments/0e7019d1-034a-4914-9d92-290a131197da/image.png",
+        "src": "https://raw.githubusercontent.com/Jampas335/under-bug-report/main/attachments/0e7019d1-034a-4914-9d92-290a131197da/image.png",
+        "sha": "c53e9c5ad2cea1952cb785411b6f716bf1061565"
+      }
+    ],
     "author": "Sem nickname"
   },
   {
