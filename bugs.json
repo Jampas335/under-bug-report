@@ -56,7 +56,8 @@
         "sha": "c53e9c5ad2cea1952cb785411b6f716bf1061565"
       }
     ],
-    "author": "Sem nickname"
+    "author": "Sem nickname",
+    "implemented": true
   },
   {
     "id": "0449e048-ee57-4ab8-81de-6649bd0fc260",
